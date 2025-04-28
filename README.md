@@ -39,3 +39,8 @@ Nine books for the base - Física clássica volume 1 (authors Caio Sérgio Calç
 - Last Update: [Insert Date]
 
 Follow the journey live on Twitter! 📣
+
+## 📆 Timeline
+
+- [Day 1 - learn how to use github for document this journey](./day1.md)
+
