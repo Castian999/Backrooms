@@ -39,7 +39,13 @@ Nine books for the base - Física clássica volume 1 (authors Caio Sérgio Calç
 - Last Update: [Insert Date]
 
 Follow the journey live on Twitter! 📣
+## 🌀 Journey Timeline (Backrooms Progress)
 
+```mermaid
+timeline
+    title Journey through the Backrooms
+    2025-04-28 : 🚪 Entered Level 0 - Learning how to use GitHub and setting the foundation
+    
 ## 📆 Timeline
 
 - [Day 1 - learn how to use github for document this journey](./day1.md)
