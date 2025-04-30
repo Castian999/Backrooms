@@ -43,6 +43,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 ## 📆 Timeline
 
 - [Day 1 - learn how to use github for document this journey](./day1.md)
+- [Day 2 - I did the first chapter of classical physics volume 1.](./day2.md)
 
 ## 🌀 Journey Timeline (Backrooms Progress)
 
@@ -50,6 +51,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 timeline
     title Journey through the Backrooms
     2025-04-28 : 🚪 Entered Level 0 - Learning how to use GitHub and setting the foundation.
+    2025-04-29 : 📖 Studied Chapter 1 of Física Clássica Vol.1 - Introduction to Physics.
     
 
 
