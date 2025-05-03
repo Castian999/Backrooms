@@ -46,6 +46,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 2 - I did the first chapter of classical physics volume 1.](./day2.md)
 - [Day 3 - Almost finished the “Set Theory” section of Topics of Elementary Algebra.](./day3.md)
 - [Day 4 - Finished Chapter 2 of Física Clássica Vol.1.](./day4.md)
+- [Day 5 - Finished Set Theory - Tough section, but completed with effort.](./day5.md).
 
 ## 🌀 Journey Timeline (Backrooms Progress)
 
@@ -56,6 +57,8 @@ timeline
     2025-04-29 : 📖 Studied Chapter 1 of Física Clássica Vol.1 - Introduction to Physics.
     2025-04-30 : 🧩 Studied Set Theory from Tópicos de Álgebra Elementar - Faced unexpected challenges.
     2025-05-01 : 🌀 Studied Chapter 2 of Física Clássica Vol.1 - Low energy, but showed up.
+    2025-05-02 : 🧠 Finished Set Theory - Tough section, but completed with effort
+
     
 
 
