@@ -48,6 +48,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 4 - Finished Chapter 2 of Física Clássica Vol.1.](./day4.md)
 - [Day 5 - Finished Set Theory - Tough section, but completed with effort.](./day5.md).
 - [Day 6 - Scalar velocity and motion concepts.](./day6.md).
+- [Day 7 - Started Química Vol.1 - Completed Chapter 1, began Chapter 2.](./day7.md).
 
 ## 🌀 Journey Timeline (Backrooms Progress)
 
@@ -60,6 +61,7 @@ timeline
     2025-05-01 : 🌀 Studied Chapter 2 of Física Clássica Vol.1 - Low energy, but showed up.
     2025-05-02 : 🧠 Finished Set Theory - Tough section, but completed with effort.
     2025-05-03 : 🚗 Started Chapter 3 - Scalar velocity and motion concepts.
+    2025-05-04 : ⚗️ Started Química Vol.1 - Completed Chapter 1, began Chapter 2.
 
 
     
