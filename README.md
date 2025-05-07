@@ -50,6 +50,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 6 - Scalar velocity and motion concepts.](./day6.md).
 - [Day 7 - Started Química Vol.1 - Completed Chapter 1, began Chapter 2.](./day7.md).
 - [Day 8 - Reviewed absolute value and started polynomials (math) + physics problems.](./day8.md).
+- [Day 9 - Physics problems (velocity), Chemistry reading (matter & transformations)](./day9.md).
 
 ## 🌀 Journey Timeline (Backrooms Progress)
 
@@ -64,6 +65,8 @@ timeline
     2025-05-03 : 🚗 Started Chapter 3 - Scalar velocity and motion concepts.
     2025-05-04 : ⚗️ Started Química Vol.1 - Completed Chapter 1, began Chapter 2.
     2025-05-05 : ➕ Reviewed absolute value and started polynomials (math) + physics problems.
+    2025-05-06 : ➕ Physics problems (velocity), Chemistry reading (matter & transformations)
+
 
 
     
