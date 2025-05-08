@@ -51,7 +51,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 7 - Started Química Vol.1 - Completed Chapter 1, began Chapter 2.](./day7.md).
 - [Day 8 - Reviewed absolute value and started polynomials (math) + physics problems.](./day8.md).
 - [Day 9 - Physics problems (velocity), Chemistry reading (matter & transformations)](./day9.md).
-- [Day 10 - Finished polynomials, started special products (math) | Chemistry: transformations](./day10,md).
+- [Day 10 - Finished polynomials, started special products (math) | Chemistry: transformations](./day10.md).
 
 ## 🌀 Journey Timeline (Backrooms Progress)
 
