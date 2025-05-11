@@ -54,6 +54,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 10 - Finished polynomials, started special products (math) | Chemistry: transformations](./day10.md).
 - [Day 11 - Mentally rough day – still studied, finished velocity (physics) & read Feltre cap. 2.](./day11.md).
 - [Day 12 -  Worked on notable products (math), solved exercises on uniform motion (physics).](./day12.md).
+- [Day 13 -  Finished uniform motion (physics), started MUV | Math: completed notable products.](./day13.md).
 
 ## 🌀 Journey Timeline (Backrooms Progress)
 
@@ -72,6 +73,8 @@ timeline
     2025-05-07 : 🧮 Finished polynomials, started special products (math) | Chemistry: transformations
     2025-05-08 : 🔥 Mentally rough day – still studied, finished velocity (physics) & read Feltre cap. 2.
     2025-05-09 : 🧮 Worked on notable products (math), solved exercises on uniform motion (physics).
+    2025-05-10 : 🧠 Finished uniform motion (physics), started MUV | Math: completed notable products.
+
 
 
 
