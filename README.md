@@ -58,6 +58,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 14 -  Finished Ch.2 (chemical transformations), started Ch.3 (Lavoisier, Proust, Dalton) | ➕ Finished special 
     products, started factorization.](./day14.md).
 - [Day 15 - Almost finished factorization | 🚀 MUV exercises (physics) — fast start, slower end, steady pace.](./day15.md).
+- [Day 16 - MUV exercises (physics) – frustrating ITA question | ⚗️ Finished Ch.3 (Feltre) & started exercises — long day, low output.](./day16.md).
 
 
 ## 🌀 Journey Timeline (Backrooms Progress)
@@ -81,6 +82,8 @@ timeline
     2025-05-09 : ⚗️ Finished Ch.2 (chemical transformations), started Ch.3 (Lavoisier, Proust, Dalton) | ➕ Finished special 
     products, started factorization.
     2025-05-12 : ➕ Almost finished factorization | 🚀 MUV exercises (physics) — fast start, slower end, steady pace.
+    2025-05-13 : ⚙️ MUV exercises (physics) – frustrating ITA question | ⚗️ Finished Ch.3 (Feltre) & started exercises — long day, low output.
+
 
 
 
