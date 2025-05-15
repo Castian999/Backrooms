@@ -59,6 +59,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
     products, started factorization.](./day14.md).
 - [Day 15 - Almost finished factorization | 🚀 MUV exercises (physics) — fast start, slower end, steady pace.](./day15.md).
 - [Day 16 - MUV exercises (physics) – frustrating ITA question | ⚗️ Finished Ch.3 (Feltre) & started exercises — long day, low output.](./day16.md).
+- [Day 17 - Finished factorization, started algebraic fractions | ⚗️ Concluded Ch.3 (Feltre) – routine getting more natural.](./day17.md)
 
 
 ## 🌀 Journey Timeline (Backrooms Progress)
@@ -83,6 +84,8 @@ timeline
     products, started factorization.
     2025-05-12 : ➕ Almost finished factorization | 🚀 MUV exercises (physics) — fast start, slower end, steady pace.
     2025-05-13 : ⚙️ MUV exercises (physics) – frustrating ITA question | ⚗️ Finished Ch.3 (Feltre) & started exercises — long day, low output.
+    2025-05-14 : ➗ Finished factorization, started algebraic fractions | ⚗️ Concluded Ch.3 (Feltre) – routine getting more natural.
+
 
 
 
