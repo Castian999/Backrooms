@@ -61,6 +61,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 16 - MUV exercises (physics) – frustrating ITA question | ⚗️ Finished Ch.3 (Feltre) & started exercises — long day, low output.](./day16.md).
 - [Day 17 - Finished factorization, started algebraic fractions | ⚗️ Concluded Ch.3 (Feltre) – routine getting more natural.](./day17.md).
 - [Day 18 - Finished MUV, started vertical motion (physics) | ⚗️ Started atomic models (Feltre Ch.4).](./day18.md).
+- [Day 19 - Nearly finished algebraic fractions | 📐 Almost completed vertical motion (physics Ch.6).](./day19.md).
+
 
 
 ## 🌀 Journey Timeline (Backrooms Progress)
@@ -87,6 +89,8 @@ timeline
     2025-05-13 : ⚙️ MUV exercises (physics) – frustrating ITA question | ⚗️ Finished Ch.3 (Feltre) & started exercises — long day, low output.
     2025-05-14 : ➗ Finished factorization, started algebraic fractions | ⚗️ Concluded Ch.3 (Feltre) – routine getting more natural.
     2025-05-15 : 📐 Finished MUV, started vertical motion (physics) | ⚗️ Started atomic models (Feltre Ch.4).
+    2025-05-16 : ➗ Nearly finished algebraic fractions | 📐 Almost completed vertical motion (physics Ch.6).
+
 
 
 
