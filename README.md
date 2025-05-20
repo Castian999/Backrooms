@@ -64,6 +64,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 19 - Nearly finished algebraic fractions | 📐 Almost completed vertical motion (physics Ch.6).](./day19.md).
 - [Day 20 - Almost finished vertical motion (physics Ch.6) | ➗ Finished fractions and started equations (math).](./day20.md).
 - [Day 21 - Dragged myself through Ch.4 (chem) | ➕ Finished equations (math) — low energy, but kept going.](./day21.md).
+- [Day 22 - Finished vertical motion (physics), started graphs | Math: linear → 1st-degree functions | +1 review pomodoro](./day22.md).
 
 
 
@@ -94,6 +95,8 @@ timeline
     2025-05-16 : ➗ Nearly finished algebraic fractions | 📐 Almost completed vertical motion (physics Ch.6).
     2025-05-17 : 📐 Almost finished vertical motion (physics Ch.6) | ➗ Finished fractions and started equations (math).
     2025-05-18 : 🧪 Dragged myself through Ch.4 (chem) | ➕ Finished equations (math) — low energy, but kept going.
+    2025-05-19 : 📈 Finished vertical motion (physics), started graphs | Math: linear → 1st-degree functions | +1 review pomodoro
+
 
 
 
