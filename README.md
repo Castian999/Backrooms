@@ -66,6 +66,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 21 - Dragged myself through Ch.4 (chem) | ➕ Finished equations (math) — low energy, but kept going.](./day21.md).
 - [Day 22 - Finished vertical motion (physics), started graphs | Math: linear → 1st-degree functions | +1 review pomodoro](./day22.md).
 - [Day 23 - Continued motion graphs (physics) | Math: 1st-degree functions exercises | 5 pomodoros total.](./day23.md).
+- [Day 24 - Finished motion graphs (physics) | ⚛️ Concluded atomic models + started periodic table (chem) | 5 pomodoros.](./day24.md).
 
 
 
@@ -98,6 +99,8 @@ timeline
     2025-05-18 : 🧪 Dragged myself through Ch.4 (chem) | ➕ Finished equations (math) — low energy, but kept going.
     2025-05-19 : 📈 Finished vertical motion (physics), started graphs | Math: linear → 1st-degree functions | +1 review pomodoro.
     2025-05-20 : 📊 Continued motion graphs (physics) | Math: 1st-degree functions exercises | 5 pomodoros total.
+    2025-05-21 : 📊 Finished motion graphs (physics) | ⚛️ Concluded atomic models + started periodic table (chem) | 5 pomodoros.
+
 
 
 
