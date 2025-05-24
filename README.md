@@ -68,6 +68,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 23 - Continued motion graphs (physics) | Math: 1st-degree functions exercises | 5 pomodoros total.](./day23.md).
 - [Day 24 - Finished motion graphs (physics) | ⚛️ Concluded atomic models + started periodic table (chem) | 5 pomodoros.](./day24.md).
 - [Day 25 - Solved vector exercises (physics) | 🧪 Periodic classification exercises (chem) | 5 pomodoros.](./day25.md).
+- [Day 26 - Almost finished linear functions (math) | 🧭 Finished vectors (physics) | 5 pomodoros.](./day26.md).
 
 
 
@@ -102,6 +103,8 @@ timeline
     2025-05-20 : 📊 Continued motion graphs (physics) | Math: 1st-degree functions exercises | 5 pomodoros total.
     2025-05-21 : 📊 Finished motion graphs (physics) | ⚛️ Concluded atomic models + started periodic table (chem) | 5 pomodoros.
     2025-05-22 : 🧭 Solved vector exercises (physics) | 🧪 Periodic classification exercises (chem) | 5 pomodoros.
+    2025-05-23 : ➕ Almost finished linear functions (math) | 🧭 Finished vectors (physics) | 5 pomodoros.
+
 
 
 
