@@ -72,6 +72,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 27 - Nearly completed vectorial kinematics (physics) | ➕ Finished linear functions, started Diophantine equations (math)](./day27.md).
 - [Day 28 - ⚗️ Finished periodic classification, started chemical bonds (chem) | ➗ Wrapped up Diophantine equations, started systems of equations (math)](./day28.md).
 - [Day 29 - Almost done with systems of affine functions (math) | 🚀 Finished vector kinematics, started motion composition (physics).](./day29.md).
+- [Day 30 -  Finished chemical bonds, started molecular geometry | 🧭 Finished motion composition, started vector kinematics II.](./day30.md).
 
 
 
@@ -110,6 +111,8 @@ timeline
     2025-05-24 : 🧭 Nearly completed vectorial kinematics (physics) | ➕ Finished linear functions, started Diophantine equations (math).
     2025-05-25 : ⚗️ Finished periodic classification, started chemical bonds (chem) | ➗ Wrapped up Diophantine equations, started systems of equations (math).
     2025-05-26 : ➗ Almost done with systems of affine functions (math) | 🚀 Finished vector kinematics, started motion composition (physics).
+    2025-05-27 : ⚗️ Finished chemical bonds, started molecular geometry | 🧭 Finished motion composition, started vector kinematics II.
+
 
 
 
