@@ -75,6 +75,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 30 -  Finished chemical bonds, started molecular geometry | 🧭 Finished motion composition, started vector kinematics II.](./day30.md).
 - [Day 31 -  Finished systems of 1st-degree equations, started inequalities | ⚛️ Exercises on molecular geometry.](./day31.md).
 - [Day 32 -Nearly finished angular kinematics | ⚛️ Progressed on molecular geometry | ➗ Inequalities + Feynman review.](./day32.md).
+- [Day 33 - Finished inequalities | ⚛️ Wrapped up molecular geometry, started salts/bases | 📚 Feynman review — low energy.](./day33.md).
 
 
 
@@ -116,6 +117,8 @@ timeline
     2025-05-27 : ⚗️ Finished chemical bonds, started molecular geometry | 🧭 Finished motion composition, started vector kinematics II.
     2025-05-28 : ➗ Finished systems of 1st-degree equations, started inequalities | ⚛️ Exercises on molecular geometry.
     2025-05-29 : 🧭 Nearly finished angular kinematics | ⚛️ Progressed on molecular geometry | ➗ Inequalities + Feynman review.
+    2025-05-30 : ➗ Finished inequalities | ⚛️ Wrapped up molecular geometry, started salts/bases | 📚 Feynman review — low energy.
+
 
 
 
