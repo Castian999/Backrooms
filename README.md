@@ -77,6 +77,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 32 -Nearly finished angular kinematics | ⚛️ Progressed on molecular geometry | ➗ Inequalities + Feynman review.](./day32.md).
 - [Day 33 - Finished inequalities | ⚛️ Wrapped up molecular geometry, started salts/bases | 📚 Feynman review — low energy.](./day33.md).
 - [Day 34 - Almost done with angular kinematics | ➖ Nearly finished 1st degree inequalities | 6 Pomodoros on a hard day.](./day34.md).
+- [Day 35 - Advanced in salts/bases/organics (Chem) | ➖ Finished 1st-degree inequalities (Math) | 🧠 Slowly recovering.](./day35.md).
 
 
 
@@ -120,6 +121,8 @@ timeline
     2025-05-29 : 🧭 Nearly finished angular kinematics | ⚛️ Progressed on molecular geometry | ➗ Inequalities + Feynman review.
     2025-05-30 : ➗ Finished inequalities | ⚛️ Wrapped up molecular geometry, started salts/bases | 📚 Feynman review — low energy.
     2025-05-31 : 🧲 Almost done with angular kinematics | ➖ Nearly finished 1st degree inequalities | 6 Pomodoros on a hard day.
+    2025-06-01 : ⚗️ Advanced in salts/bases/organics (Chem) | ➖ Finished 1st-degree inequalities (Math) | 🧠 Slowly recovering.
+
 
 
 
