@@ -1,4 +1,4 @@
-# 📅 Day 37 - 2025-06-02
+# 📅 Day 37 - 2025-06-03
 
 ## 🔬 Physics
 - Finished Chapter 11 (Angular Kinematics) from "Física Clássica Vol. 1".
