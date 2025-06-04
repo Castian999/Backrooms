@@ -102,7 +102,7 @@ timeline
     2025-05-08 : 🔥 Mentally rough day – still studied, finished velocity (physics) & read Feltre cap. 2.
     2025-05-09 : 🧮 Worked on notable products (math), solved exercises on uniform motion (physics).
     2025-05-10 : 🧠 Finished uniform motion (physics), started MUV | Math: completed notable products.
-    2025-05-09 : ⚗️ Finished Ch.2 (chemical transformations), started Ch.3 (Lavoisier, Proust, Dalton) | ➕ Finished special 
+    2025-05-11 : ⚗️ Finished Ch.2 (chemical transformations), started Ch.3 (Lavoisier, Proust, Dalton) | ➕ Finished special 
     products, started factorization.
     2025-05-12 : ➕ Almost finished factorization | 🚀 MUV exercises (physics) — fast start, slower end, steady pace.
     2025-05-13 : ⚙️ MUV exercises (physics) – frustrating ITA question | ⚗️ Finished Ch.3 (Feltre) & started exercises — long day, low output.
@@ -126,7 +126,7 @@ timeline
     2025-05-31 : 🧲 Almost done with angular kinematics | ➖ Nearly finished 1st degree inequalities | 6 Pomodoros on a hard day.
     2025-06-01 : ⚗️ Advanced in salts/bases/organics (Chem) | ➖ Finished 1st-degree inequalities (Math) | 🧠 Slowly recovering.
     2025-06-02 : ⚖️ Studied quadratic equations (math) and corrected angular kinematics exercises (physics) – emotionally unstable day, but stayed disciplined.
-    2025-06-02 : ⚗️ 3 Chemistry pomodoros (continued Chapter 8) | 🔁 3 Physics pomodoros (finished angular kinematics, started Newton's Laws).
+    2025-06-03 : ⚗️ 3 Chemistry pomodoros (continued Chapter 8) | 🔁 3 Physics pomodoros (finished angular kinematics, started Newton's Laws).
 
 
 
