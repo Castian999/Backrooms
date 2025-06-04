@@ -79,6 +79,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 34 - Almost done with angular kinematics | ➖ Nearly finished 1st degree inequalities | 6 Pomodoros on a hard day.](./day34.md).
 - [Day 35 - Advanced in salts/bases/organics (Chem) | ➖ Finished 1st-degree inequalities (Math) | 🧠 Slowly recovering.](./day35.md).
 - [Day 36 - Studied quadratic equations (math) and corrected angular kinematics exercises (physics) – emotionally unstable day, but stayed disciplined.](./day36.md).
+- [Day 37 - 3 Chemistry pomodoros (continued Chapter 8) | 🔁 3 Physics pomodoros (finished angular kinematics, started Newton's Laws).](./day37.md).
 
 
 
@@ -125,6 +126,8 @@ timeline
     2025-05-31 : 🧲 Almost done with angular kinematics | ➖ Nearly finished 1st degree inequalities | 6 Pomodoros on a hard day.
     2025-06-01 : ⚗️ Advanced in salts/bases/organics (Chem) | ➖ Finished 1st-degree inequalities (Math) | 🧠 Slowly recovering.
     2025-06-02 : ⚖️ Studied quadratic equations (math) and corrected angular kinematics exercises (physics) – emotionally unstable day, but stayed disciplined.
+    2025-06-02 : ⚗️ 3 Chemistry pomodoros (continued Chapter 8) | 🔁 3 Physics pomodoros (finished angular kinematics, started Newton's Laws).
+
 
 
 
