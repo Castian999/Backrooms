@@ -82,6 +82,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 37 - 3 Chemistry pomodoros (continued Chapter 8) | 🔁 3 Physics pomodoros (finished angular kinematics, started Newton's Laws).](./day37.md).
 - [Day 38 - Finished 2nd-degree equations and started quadratic trinomials | 🧪 Nearly finished Chapter 8 on salts, acids, and bases (Feltre Vol. 1).](./day38.md).
 - [Day 39 - Almost finished Newton’s Laws (Physics) | 🧪 Completed Chapter 8 (acids, salts, and bases - Chemistry).](./day39.md).
+- [Day 40 - Reviewed with Feynman | ➗ Nearly finished trinomials (math) | ⚙️ Almost done with Newton’s Laws (physics).](./day40.md).
 
 
 
@@ -132,6 +133,8 @@ timeline
     2025-06-03 : ⚗️ 3 Chemistry pomodoros (continued Chapter 8) | 🔁 3 Physics pomodoros (finished angular kinematics, started Newton's Laws).
     2025-06-04 : 🧮 Finished 2nd-degree equations and started quadratic trinomials | 🧪 Nearly finished Chapter 8 on salts, acids, and bases (Feltre Vol. 1).
     2025-06-05 : ⚙️ Almost finished Newton’s Laws (Physics) | 🧪 Completed Chapter 8 (acids, salts, and bases - Chemistry).
+    2025-06-06 : 🧠 Reviewed with Feynman | ➗ Nearly finished trinomials (math) | ⚙️ Almost done with Newton’s Laws (physics).
+
 
 
 
