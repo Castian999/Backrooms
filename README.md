@@ -84,6 +84,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 39 - Almost finished Newton’s Laws (Physics) | 🧪 Completed Chapter 8 (acids, salts, and bases - Chemistry).](./day39.md).
 - [Day 40 - Reviewed with Feynman | ➗ Nearly finished trinomials (math) | ⚙️ Almost done with Newton’s Laws (physics).](./day40.md).
 - [Day 41 - Finished Newton’s Laws (physics) | ➗ Nearly done with trinomials (math) | Neutral day, stayed consistent.](./day41.md).
+- [Day 42 -  Exercises on inorganic oxides (chem) | ➗ Finished trinomials (math) | Stayed on track despite emotional lows.(./day42.md).
 
 
 
@@ -136,6 +137,8 @@ timeline
     2025-06-05 : ⚙️ Almost finished Newton’s Laws (Physics) | 🧪 Completed Chapter 8 (acids, salts, and bases - Chemistry).
     2025-06-06 : 🧠 Reviewed with Feynman | ➗ Nearly finished trinomials (math) | ⚙️ Almost done with Newton’s Laws (physics).
     2025-06-07 : ⚙️ Finished Newton’s Laws (physics) | ➗ Nearly done with trinomials (math) | Neutral day, stayed consistent.
+    2025-06-08 : ⚗️ Exercises on inorganic oxides (chem) | ➗ Finished trinomials (math) | Stayed on track despite emotional lows.
+
 
 
 
