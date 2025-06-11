@@ -85,7 +85,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 40 - Reviewed with Feynman | ➗ Nearly finished trinomials (math) | ⚙️ Almost done with Newton’s Laws (physics).](./day40.md).
 - [Day 41 - Finished Newton’s Laws (physics) | ➗ Nearly done with trinomials (math) | Neutral day, stayed consistent.](./day41.md).
 - [Day 42 -  Exercises on inorganic oxides (chem) | ➗ Finished trinomials (math) | Stayed on track despite emotional lows.](./day42.md).
-- [Day 43 Started quadratic functions (math) | 🧲 Started Chapter 13 – Newton's laws applications (physics) | Day felt okay, steady progress.](./day43.md).
+- [Day 43 - Started quadratic functions (math) | 🧲 Started Chapter 13 – Newton's laws applications (physics) | Day felt okay, steady progress.](./day43.md).
+- [Day 44 - Exercises on Newton's laws (phys) | 🧪 Nearly finished inorganic oxides (chem) | 🔁 Feynman review | Slightly better day.](./day44.md).
 
 
 
@@ -140,6 +141,8 @@ timeline
     2025-06-07 : ⚙️ Finished Newton’s Laws (physics) | ➗ Nearly done with trinomials (math) | Neutral day, stayed consistent.
     2025-06-08 : ⚗️ Exercises on inorganic oxides (chem) | ➗ Finished trinomials (math) | Stayed on track despite emotional lows.
     2025-06-09 : 📘 Started quadratic functions (math) | 🧲 Started Chapter 13 – Newton's laws applications (physics) | Day felt okay, steady progress.
+    2025-06-10 : 🧲 Exercises on Newton's laws (phys) | 🧪 Nearly finished inorganic oxides (chem) | 🔁 Feynman review | Slightly better day.
+
 
 
 
