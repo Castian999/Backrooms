@@ -90,6 +90,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 45 - Continued quadratic functions (math) | 🧪 Finished inorganic oxides, started chemical reactions (chem) | Getting used to the grind.](./day45.md).
 - [Day 46 - Continued Newton’s Laws applications (physics) | 🧪 Continued chemical reactions (chem) | Emotionally rough, but stayed on track.](./day46.md).
 - [Day 47 - Finished quadratic functions (math) | 🧲 Did Chapter 13 exercises – Newton's laws (physics) | ✅ 1 review pomodoro | Feeling better.](./day47.md).
+- [Day 48 -  Started and nearly finished biquadratic equations (math) | 🧲 Finished Chapter 13 and started Chapter 14 – projectile motion (physics) | A good day.](./day48.md).
 
 
 
@@ -149,6 +150,8 @@ timeline
     2025-06-11 : 📘 Continued quadratic functions (math) | 🧪 Finished inorganic oxides, started chemical reactions (chem) | Getting used to the grind.
     2025-06-12 : 🧲 Continued Newton’s Laws applications (physics) | 🧪 Continued chemical reactions (chem) | Emotionally rough, but stayed on track.
     2025-06-12 : 📘 Finished quadratic functions (math) | 🧲 Did Chapter 13 exercises – Newton's laws (physics) | ✅ 1 review pomodoro | Feeling better.
+    2025-06-14 : 📘 Started and nearly finished biquadratic equations (math) | 🧲 Finished Chapter 13 and started Chapter 14 – projectile motion (physics) | A good day.
+
 
 
 
