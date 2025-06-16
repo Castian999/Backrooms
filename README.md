@@ -91,6 +91,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 46 - Continued Newton’s Laws applications (physics) | 🧪 Continued chemical reactions (chem) | Emotionally rough, but stayed on track.](./day46.md).
 - [Day 47 - Finished quadratic functions (math) | 🧲 Did Chapter 13 exercises – Newton's laws (physics) | ✅ 1 review pomodoro | Feeling better.](./day47.md).
 - [Day 48 -  Started and nearly finished biquadratic equations (math) | 🧲 Finished Chapter 13 and started Chapter 14 – projectile motion (physics) | A good day.](./day48.md).
+- [Day 49 - Continued Chapter 10 – chemical reactions (chem) | 📘 Continued biquadratic equations (math) | 🧠 1 pomodoro review | Slow day, but moving forward.](./day49.md).
+
 
 
 
@@ -151,6 +153,8 @@ timeline
     2025-06-12 : 🧲 Continued Newton’s Laws applications (physics) | 🧪 Continued chemical reactions (chem) | Emotionally rough, but stayed on track.
     2025-06-12 : 📘 Finished quadratic functions (math) | 🧲 Did Chapter 13 exercises – Newton's laws (physics) | ✅ 1 review pomodoro | Feeling better.
     2025-06-14 : 📘 Started and nearly finished biquadratic equations (math) | 🧲 Finished Chapter 13 and started Chapter 14 – projectile motion (physics) | A good day.
+    2025-06-15 : 🧪 Continued Chapter 10 – chemical reactions (chem) | 📘 Continued biquadratic equations (math) | 🧠 1 pomodoro review | Slow day, but moving forward.
+
 
 
 
