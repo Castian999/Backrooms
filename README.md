@@ -96,7 +96,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 51 - Solved projectile motion exercises (physics) | 🧪 Corrected most of Chapter 10 (chem) | A steady, okay day.](./day51.md).
 - [Day 52 - Finished biquadratic equations, started irrational ones (math) | 🧪 Wrapped up reactions, started atomic/molecular mass (chem) | Busy and draining, but moved forward.](./day52.md).
 - [Day 53 - More vertical motion exercises (physics) | 🧪 Exercises on atomic/molecular mass (chem) | Tough day, only 4 pomodoros, but stayed in the game.](./day53.md).
-
+- [Day 54 - Finished projectile motion exercises (physics, pending corrections) | 📘 Progress on irrational equations (math) | Back to 6 pomodoros, still feeling slow.](./day54.md).
 
 
 
@@ -162,6 +162,8 @@ timeline
     2025-06-17 : 🧲 Solved projectile motion exercises (physics) | 🧪 Corrected most of Chapter 10 (chem) | A steady, okay day.
     2025-06-18 : ➗ Finished biquadratic equations, started irrational ones (math) | 🧪 Wrapped up reactions, started atomic/molecular mass (chem) | Busy and draining, but moved forward.
     2025-06-19 : 🧲 More vertical motion exercises (physics) | 🧪 Exercises on atomic/molecular mass (chem) | Tough day, only 4 pomodoros, but stayed in the game.
+    2025-06-20 : 🧲 Finished projectile motion exercises (physics, pending corrections) | 📘 Progress on irrational equations (math) | Back to 6 pomodoros, still feeling slow.
+
 
 
 
