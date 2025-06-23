@@ -98,6 +98,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 53 - More vertical motion exercises (physics) | 🧪 Exercises on atomic/molecular mass (chem) | Tough day, only 4 pomodoros, but stayed in the game.](./day53.md).
 - [Day 54 - Finished projectile motion exercises (physics, pending corrections) | 📘 Progress on irrational equations (math) | Back to 6 pomodoros, still feeling slow.](./day54.md).
 - [Day 55 -  Helped out and attended someone else's wedding! Still finished projectile motion (physics) with 3 pomodoros.](./day55.md).
+- [Day 56 - Chemistry – Exercises on atomic/molecular mass | ➗ Finished irrational equations, started irrational inequalities (math) | Felt good finishing early.](./day56.md).
 
 
 
@@ -165,6 +166,8 @@ timeline
     2025-06-19 : 🧲 More vertical motion exercises (physics) | 🧪 Exercises on atomic/molecular mass (chem) | Tough day, only 4 pomodoros, but stayed in the game.
     2025-06-20 : 🧲 Finished projectile motion exercises (physics, pending corrections) | 📘 Progress on irrational equations (math) | Back to 6 pomodoros, still feeling slow.
     2025-06-21 : 🎉 Helped out and attended someone else's wedding! Still finished projectile motion (physics) with 3 pomodoros.
+    2025-06-22 : ⚗️ Chemistry – Exercises on atomic/molecular mass | ➗ Finished irrational equations, started irrational inequalities (math) | Felt good finishing early.
+
 
 
 
