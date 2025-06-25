@@ -100,6 +100,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 55 -  Helped out and attended someone else's wedding! Still finished projectile motion (physics) with 3 pomodoros.](./day55.md).
 - [Day 56 - Chemistry – Exercises on atomic/molecular mass | ➗ Finished irrational equations, started irrational inequalities (math) | Felt good finishing early.](./day56.md).
 - [Day 57 -  Math – Exercises on irrational inequalities | ⚗️ Chemistry – Nearly finished Chapter 11 on atomic/molecular mass | Felt productive and focused.](./day57.md).
+- [Day 58 - Started Chapter 15 – Frictional force (physics) | 🧠 1 pomodoro of Feynman review | Tough day, but kept going.](./day58.md).
 
 
 
@@ -169,6 +170,8 @@ timeline
     2025-06-21 : 🎉 Helped out and attended someone else's wedding! Still finished projectile motion (physics) with 3 pomodoros.
     2025-06-22 : ⚗️ Chemistry – Exercises on atomic/molecular mass | ➗ Finished irrational equations, started irrational inequalities (math) | Felt good finishing early.
     2025-06-23 : ➗ Math – Exercises on irrational inequalities | ⚗️ Chemistry – Nearly finished Chapter 11 on atomic/molecular mass | Felt productive and focused.
+    2025-06-24 : 🧲 Started Chapter 15 – Frictional force (physics) | 🧠 1 pomodoro of Feynman review | Tough day, but kept going.
+
 
 
 
