@@ -102,6 +102,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 57 -  Math – Exercises on irrational inequalities | ⚗️ Chemistry – Nearly finished Chapter 11 on atomic/molecular mass | Felt productive and focused.](./day57.md).
 - [Day 58 - Started Chapter 15 – Frictional force (physics) | 🧠 1 pomodoro of Feynman review | Tough day, but kept going.](./day58.md).
 - [Day 59 - No study – emotionally difficult day, faced truth about a past relationship.](./day59.md).
+- [Day 60 -  Rest day – took time to care for emotional health and recharge.](./day60.md).
 
 
 
@@ -173,6 +174,8 @@ timeline
     2025-06-23 : ➗ Math – Exercises on irrational inequalities | ⚗️ Chemistry – Nearly finished Chapter 11 on atomic/molecular mass | Felt productive and focused.
     2025-06-24 : 🧲 Started Chapter 15 – Frictional force (physics) | 🧠 1 pomodoro of Feynman review | Tough day, but kept going.
     2025-06-25 : 🛑 No study – emotionally difficult day, faced truth about a past relationship.
+    2025-06-26 : 🌿 Rest day – took time to care for emotional health and recharge.
+
 
 
 
