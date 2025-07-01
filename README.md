@@ -106,6 +106,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 61 - Continued mental rest – prioritizing healing and stability.](./day61.md).
 - [Day 62 - Returned to studies | ➗ Inequalities (math) | 🧲 Friction (physics) | Some distractions, but I'm back.](./day62.md).
 - [Day 63 - Finished atomic/molecular mass, started gases (chem) | ➗ Finished irrational inequalities, started nested radicals (math) | Kept going despite inner storms.](./day63.md).
+- [Day 64 - Exercises on nested radicals (math) | 🧲 Worked on friction problems (physics) | Not a great day, but stayed in motion.](./day64.md).
+
 
 
 
@@ -181,6 +183,8 @@ timeline
     2025-06-27 : 🌱 Continued mental rest – prioritizing healing and stability.
     2025-06-28 : 🔁 Returned to studies | ➗ Inequalities (math) | 🧲 Friction (physics) | Some distractions, but I'm back.
     2025-06-29 : ⚗️ Finished atomic/molecular mass, started gases (chem) | ➗ Finished irrational inequalities, started nested radicals (math) | Kept going despite inner storms.
+    2025-06-30 : ➗ Exercises on nested radicals (math) | 🧲 Worked on friction problems (physics) | Not a great day, but stayed in motion.
+
 
 
 
