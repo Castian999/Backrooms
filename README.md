@@ -109,6 +109,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 64 - Exercises on nested radicals (math) | 🧲 Worked on friction problems (physics) | Not a great day, but stayed in motion.](./day64.md).
 - [Day 65 - Rest day – Took time to deal with emotional challenges. Still in the game.](day65.md).
 - [Day 66 - Exercises on double radicals (math) | Only 2 pomodoros, but kept the momentum alive.](./day66.md).
+- [Day 67 - Finished friction (physics) | ➕ Started elastic force (physics) | ⚗️ Continued gases (chem) | Good progress and better mindset.](./day67.md).
+
 
 
 
@@ -189,6 +191,8 @@ timeline
     2025-06-30 : ➗ Exercises on nested radicals (math) | 🧲 Worked on friction problems (physics) | Not a great day, but stayed in motion.
     2025-07-01 : 💤 Rest day – Took time to deal with emotional challenges. Still in the game.
     2025-07-02 : 📘 Exercises on double radicals (math) | Only 2 pomodoros, but kept the momentum alive.
+    2025-07-03 : 🧲 Finished friction (physics) | ➕ Started elastic force (physics) | ⚗️ Continued gases (chem) | Good progress and better mindset.
+
 
 
 
