@@ -111,6 +111,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 66 - Exercises on double radicals (math) | Only 2 pomodoros, but kept the momentum alive.](./day66.md).
 - [Day 67 - Finished friction (physics) | ➕ Started elastic force (physics) | ⚗️ Continued gases (chem) | Good progress and better mindset.](./day67.md).
 - [Day 68 - Finished double radicals (math) | Working on final review problems | Mixed feelings, but progress made.](./day68.md).
+- [Day 69 - Finished Chapter 16 (elastic force) | Started Chapter 17 (vector components) | Neutral but consistent.](./day69.md).
 
 
 
@@ -194,6 +195,8 @@ timeline
     2025-07-02 : 📘 Exercises on double radicals (math) | Only 2 pomodoros, but kept the momentum alive.
     2025-07-03 : 🧲 Finished friction (physics) | ➕ Started elastic force (physics) | ⚗️ Continued gases (chem) | Good progress and better mindset.
     2025-07-04 : ➗ Finished double radicals (math) | Working on final review problems | Mixed feelings, but progress made.
+    2025-07-05 : 🧲 Finished Chapter 16 (elastic force) | Started Chapter 17 (vector components) | Neutral but consistent.
+
 
 
 
