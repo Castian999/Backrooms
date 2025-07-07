@@ -113,6 +113,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 68 - Finished double radicals (math) | Working on final review problems | Mixed feelings, but progress made.](./day68.md).
 - [Day 69 - Finished Chapter 16 (elastic force) | Started Chapter 17 (vector components) | Neutral but consistent.](./day69.md).
 - [Day 70 - Continued Chapter 12 (study of gases – chemistry) | Dense content, but steady work | Day felt okay.](./day70.md).
+- [Day 71 - Day of reflection – Decided to pause *Tópicos de Álgebra Elementar* and follow a new plan: Gelson Iezzi ➡️ OBMEP 2005–2025 ➡️ FME Vol.1 ➡️ Return to Tópicos.](./day71.md).
+
 
 
 
@@ -198,6 +200,8 @@ timeline
     2025-07-04 : ➗ Finished double radicals (math) | Working on final review problems | Mixed feelings, but progress made.
     2025-07-05 : 🧲 Finished Chapter 16 (elastic force) | Started Chapter 17 (vector components) | Neutral but consistent.
     2025-07-06 : ⚗️ Continued Chapter 12 (study of gases – chemistry) | Dense content, but steady work | Day felt okay.
+    2025-07-07 : 🔄 Day of reflection – Decided to pause *Tópicos de Álgebra Elementar* and follow a new plan: Gelson Iezzi ➡️ OBMEP 2005–2025 ➡️ FME Vol.1 ➡️ Return to Tópicos.
+
 
 
 
