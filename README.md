@@ -115,6 +115,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 70 - Continued Chapter 12 (study of gases – chemistry) | Dense content, but steady work | Day felt okay.](./day70.md).
 - [Day 71 - Day of reflection – Decided to pause *Tópicos de Álgebra Elementar* and follow a new plan: Gelson Iezzi ➡️ OBMEP 2005–2025 ➡️ FME Vol.1 ➡️ Return to Tópicos.](./day71.md).
 - [Day 72 - Chapter 17 exercises – Curved trajectory (physics) | 🧠 Feynman review | Distracted, but stayed committed.](./day72.md).
+- [Day 73 - Started Gelson Iezzi's math | 🧪 Solved chem exercises | 🧠 Applied Feynman review | Introduced the "Selected Practice Method".](./day73.md).
+
 
 
 
@@ -203,6 +205,8 @@ timeline
     2025-07-06 : ⚗️ Continued Chapter 12 (study of gases – chemistry) | Dense content, but steady work | Day felt okay.
     2025-07-07 : 🔄 Day of reflection – Decided to pause *Tópicos de Álgebra Elementar* and follow a new plan: Gelson Iezzi ➡️ OBMEP 2005–2025 ➡️ FME Vol.1 ➡️ Return to Tópicos.
     2025-07-08 : 🧲 Chapter 17 exercises – Curved trajectory (physics) | 🧠 Feynman review | Distracted, but stayed committed.
+    2025-07-09 : 📘 Started Gelson Iezzi's math | 🧪 Solved chem exercises | 🧠 Applied Feynman review | Introduced the "Selected Practice Method".
+
 
 
 
