@@ -116,6 +116,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 71 - Day of reflection – Decided to pause *Tópicos de Álgebra Elementar* and follow a new plan: Gelson Iezzi ➡️ OBMEP 2005–2025 ➡️ FME Vol.1 ➡️ Return to Tópicos.](./day71.md).
 - [Day 72 - Chapter 17 exercises – Curved trajectory (physics) | 🧠 Feynman review | Distracted, but stayed committed.](./day72.md).
 - [Day 73 - Started Gelson Iezzi's math | 🧪 Solved chem exercises | 🧠 Applied Feynman review | Introduced the "Selected Practice Method".](./day73.md).
+- [Day 74 - Physics – Chapter 17 (curved motion) using Selected Practice Method | Tough day emotionally, but stayed on track.](./day74.md).
+
 
 
 
@@ -206,6 +208,8 @@ timeline
     2025-07-07 : 🔄 Day of reflection – Decided to pause *Tópicos de Álgebra Elementar* and follow a new plan: Gelson Iezzi ➡️ OBMEP 2005–2025 ➡️ FME Vol.1 ➡️ Return to Tópicos.
     2025-07-08 : 🧲 Chapter 17 exercises – Curved trajectory (physics) | 🧠 Feynman review | Distracted, but stayed committed.
     2025-07-09 : 📘 Started Gelson Iezzi's math | 🧪 Solved chem exercises | 🧠 Applied Feynman review | Introduced the "Selected Practice Method".
+    2025-07-10 : 🧲 Physics – Chapter 17 (curved motion) using Selected Practice Method | Tough day emotionally, but stayed on track.
+
 
 
 
