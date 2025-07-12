@@ -117,6 +117,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 72 - Chapter 17 exercises – Curved trajectory (physics) | 🧠 Feynman review | Distracted, but stayed committed.](./day72.md).
 - [Day 73 - Started Gelson Iezzi's math | 🧪 Solved chem exercises | 🧠 Applied Feynman review | Introduced the "Selected Practice Method".](./day73.md).
 - [Day 74 - Physics – Chapter 17 (curved motion) using Selected Practice Method | Tough day emotionally, but stayed on track.](./day74.md).
+- [Day 75 -  Day off – reorganizing routine and recovering emotionally | A quiet but essential reset.](./day75.md).
+
 
 
 
@@ -209,6 +211,8 @@ timeline
     2025-07-08 : 🧲 Chapter 17 exercises – Curved trajectory (physics) | 🧠 Feynman review | Distracted, but stayed committed.
     2025-07-09 : 📘 Started Gelson Iezzi's math | 🧪 Solved chem exercises | 🧠 Applied Feynman review | Introduced the "Selected Practice Method".
     2025-07-10 : 🧲 Physics – Chapter 17 (curved motion) using Selected Practice Method | Tough day emotionally, but stayed on track.
+    2025-07-11 : 🛠️ Day off – reorganizing routine and recovering emotionally | A quiet but essential reset.
+
 
 
 
