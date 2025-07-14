@@ -119,6 +119,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 74 - Physics – Chapter 17 (curved motion) using Selected Practice Method | Tough day emotionally, but stayed on track.](./day74.md).
 - [Day 75 -  Day off – reorganizing routine and recovering emotionally | A quiet but essential reset.](./day75.md).
 - [Day 76 - 2025-07-12 :  Finished Ch.17 (motion on curves) + started Ch.18 (work-energy) | ➗ Selected & solved most of 25 math problems on functions | Tested new journaling format](./day76.md).
+- [Day 77 - Finished and corrected Ch.12 on gases (Feltre) | ➗ Finished Ch.2 and started Ch.3 (functions – Gelson Lezzi) | 🧠 Revision + vestibular questions | 7 pomodoros | Day 77.](./day77.md).
 
 
 
@@ -215,6 +216,8 @@ timeline
     2025-07-10 : 🧲 Physics – Chapter 17 (curved motion) using Selected Practice Method | Tough day emotionally, but stayed on track.
     2025-07-11 : 🛠️ Day off – reorganizing routine and recovering emotionally | A quiet but essential reset.
     2025-07-12 : 🧲 Finished Ch.17 (motion on curves) + started Ch.18 (work-energy) | ➗ Selected & solved most of 25 math problems on functions | Tested new journaling format.
+    2025-07-13 : 🧪 Finished and corrected Ch.12 on gases (Feltre) | ➗ Finished Ch.2 and started Ch.3 (functions – Gelson Lezzi) | 🧠 Revision + vestibular questions | 7 pomodoros | Day 77.
+
 
 
 
