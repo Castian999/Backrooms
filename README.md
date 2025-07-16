@@ -121,6 +121,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 76 - 2025-07-12 :  Finished Ch.17 (motion on curves) + started Ch.18 (work-energy) | ➗ Selected & solved most of 25 math problems on functions | Tested new journaling format](./day76.md).
 - [Day 77 - Finished and corrected Ch.12 on gases (Feltre) | ➗ Finished Ch.2 and started Ch.3 (functions – Gelson Lezzi) | 🧠 Revision + vestibular questions | 7 pomodoros | Day 77.](./day77.md).
 - [Day 78 -  Finished theory, exercises & corrections from Ch.3 (affine functions – Gelson Lezzi) | 3 pomodoros | Day 78.](./day78.md).
+- [Day 79 -  I did exercises from chapter 18 of the book Classical Physics Volume 1 | 3 pomodoros | Day 79.](./day79.md)
 
 
 
@@ -219,6 +220,7 @@ timeline
     2025-07-12 : 🧲 Finished Ch.17 (motion on curves) + started Ch.18 (work-energy) | ➗ Selected & solved most of 25 math problems on functions | Tested new journaling format.
     2025-07-13 : 🧪 Finished and corrected Ch.12 on gases (Feltre) | ➗ Finished Ch.2 and started Ch.3 (functions – Gelson Lezzi) | 🧠 Revision + vestibular questions | 7 pomodoros | Day 77.
     2025-07-14 : ➗ Finished theory, exercises & corrections from Ch.3 (affine functions – Gelson Lezzi) | 3 pomodoros | Day 78.
+    2025-07-15: I did exercises from chapter 18 of the book Classical Physics Volume 1 | 3 pomodoros | Day 79.
 
 
 
