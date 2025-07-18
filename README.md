@@ -123,6 +123,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 78 -  Finished theory, exercises & corrections from Ch.3 (affine functions – Gelson Lezzi) | 3 pomodoros | Day 78.](./day78.md).
 - [Day 79 -  I did exercises from chapter 18 of the book Classical Physics Volume 1 | 3 pomodoros | Day 79.](./day79.md)
 - [Day 80 -  Ch.4 (math - Gelson Lezzi) + Ch.12→13 (chem - Feltre) + Feynman review | 6 pomodoros | Day 80.](./day80.md).
+- [Day 81 - Finished Ch.18 & began Ch.19 (physics) + Ch.13 theory & exercises (chem) | 5 pomodoros | Day 81.](./day81.md).
 
 
 
@@ -223,6 +224,8 @@ timeline
     2025-07-14 : ➗ Finished theory, exercises & corrections from Ch.3 (affine functions – Gelson Lezzi) | 3 pomodoros | Day 78.
     2025-07-15: I did exercises from chapter 18 of the book Classical Physics Volume 1 | 3 pomodoros | Day 79.
     2025-07-16 : 📘 Ch.4 (math - Gelson Lezzi) + Ch.12→13 (chem - Feltre) + Feynman review | 6 pomodoros | Day 80.
+    2025-07-17 : ⚛️ Finished Ch.18 & began Ch.19 (physics) + Ch.13 theory & exercises (chem) | 5 pomodoros | Day 81.
+
 
 
 
