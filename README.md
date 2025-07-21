@@ -232,7 +232,7 @@ timeline
     2025-07-17 : ⚛️ Finished Ch.18 & began Ch.19 (physics) + Ch.13 theory & exercises (chem) | 5 pomodoros | Day 81.
     2025-07-18 : ➗ Finished Ch.4 exercises (quadratic functions – math) + began Ch.19 exercises (work/energy – physics) | 5 pomodoros | Day 82.
     2025-07-19 : ⚛️ Continued & completed Ch.19 exercises (energy/power – physics) + began corrections | 3 pomodoros | Day 83.
-    2025-07-21 : 🧪 Finished Ch.13 (formula calculations) + started Ch.14 (stoichiometry – chemistry) | 📐 Corrected & wrapped up Ch.4 (quadratic functions – math) | 5 pomodoros | Day 84.
+    2025-07-20 : 🧪 Finished Ch.13 (formula calculations) + started Ch.14 (stoichiometry – chemistry) | 📐 Corrected & wrapped up Ch.4 (quadratic functions – math) | 5 pomodoros | Day 84.
 
 
 
