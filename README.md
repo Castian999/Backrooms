@@ -129,6 +129,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 84 - Finished Ch.13 (formula calculations) + started Ch.14 (stoichiometry – chemistry) | 📐 Corrected & wrapped up Ch.4 (quadratic functions – math) | 5 pomodoros | Day 84.](day84.md).
 - [Day 85 - Finished Ch.4 (quadratic functions) & began Ch.5 (modular functions – math) | 3 pomodoros | Day 85.](./day85.md).
 - [Day 86 - Wrapped up Ch.19 (Energy & Power), started Ch.20 (Momentum – physics) | 3 pomodoros | Day 86.](./day86.md).
+- [Day 87 -  No study (personal reasons) | 0 pomodoros | Day 87.](./day87.md).
 
 
 
@@ -238,6 +239,8 @@ timeline
     2025-07-20 : 🧪 Finished Ch.13 (formula calculations) + started Ch.14 (stoichiometry – chemistry) | 📐 Corrected & wrapped up Ch.4 (quadratic functions – math) | 5 pomodoros | Day 84.
     2025-07-21 : 📐 Finished Ch.4 (quadratic functions) & began Ch.5 (modular functions – math) | 3 pomodoros | Day 85.
     2025-07-22 : 🧠 Wrapped up Ch.19 (Energy & Power), started Ch.20 (Momentum – physics) | 3 pomodoros | Day 86.
+    2025-07-23 : ❌ No study (personal reasons) | 0 pomodoros | Day 87.
+
 
 
 
