@@ -131,6 +131,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 86 - Wrapped up Ch.19 (Energy & Power), started Ch.20 (Momentum – physics) | 3 pomodoros | Day 86.](./day86.md).
 - [Day 87 -  No study (personal reasons) | 0 pomodoros | Day 87.](./day87.md).
 - [Day 88 - Ch.20 (momentum & impulse – Física Clássica) theory + most exercises done | 2 pomodoros | Day 88.](./day88.md).
+- [Day 89 - Finished Ch.5 (modular functions) & started Ch.6 (exponential functions) – Gelson Lezzi ⚛️ Completed Ch.20 (momentum & impulse) – Física Clássica Vol.1 📚 Review with Feynman method  6 pomodoros | Day 89.](./day89.md).
 
 
 
@@ -242,6 +243,8 @@ timeline
     2025-07-22 : 🧠 Wrapped up Ch.19 (Energy & Power), started Ch.20 (Momentum – physics) | 3 pomodoros | Day 86.
     2025-07-23 : ❌ No study (personal reasons) | 0 pomodoros | Day 87.
     2025-07-24 : 🧠 Ch.20 (momentum & impulse – Física Clássica) theory + most exercises done | 2 pomodoros | Day 88.
+    2025-07-25 : ➗ Finished Ch.5 (modular functions) & started Ch.6 (exponential functions) – Gelson Lezzi ⚛️ Completed Ch.20 (momentum & impulse) – Física Clássica Vol.1 📚 Review with Feynman method  6 pomodoros | Day 89.
+
 
 
 
