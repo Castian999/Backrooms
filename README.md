@@ -133,6 +133,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 88 - Ch.20 (momentum & impulse – Física Clássica) theory + most exercises done | 2 pomodoros | Day 88.](./day88.md).
 - [Day 89 - Finished Ch.5 (modular functions) & started Ch.6 (exponential functions) – Gelson Lezzi ⚛️ Completed Ch.20 (momentum & impulse) – Física Clássica Vol.1 📚 Review with Feynman method  6 pomodoros | Day 89.](./day89.md).
 - [Day 90 - Started Ch.20 (collisions) – read & solved some exercises – Física Clássica Vol.1  ➗ Continued Ch.6 (exponential functions) – Matemática Volume Único  📚 Review with Feynman method  6 pomodoros | Day 90.](./day90.md).
+- [Day 91 - Finished Ch.14 exercises (stoichiometry) – Química Feltre Vol.1  ➗ Finished Ch.6 exercises (exponential functions – pending correction) – Matemática Volume Único  📚 Review with Feynman method 6 pomodoros | Day 91.](./day91.md).
 
 
 
@@ -246,6 +247,8 @@ timeline
     2025-07-24 : 🧠 Ch.20 (momentum & impulse – Física Clássica) theory + most exercises done | 2 pomodoros | Day 88.
     2025-07-25 : ➗ Finished Ch.5 (modular functions) & started Ch.6 (exponential functions) – Gelson Lezzi ⚛️ Completed Ch.20 (momentum & impulse) – Física Clássica Vol.1 📚 Review with Feynman method  6 pomodoros | Day 89.
 2025-07-26 : ⚛️ Started Ch.20 (collisions) – read & solved some exercises – Física Clássica Vol.1  ➗ Continued Ch.6 (exponential functions) – Matemática Volume Único  📚 Review with Feynman method  6 pomodoros | Day 90.
+2025-07-27 : 🧪 Finished Ch.14 exercises (stoichiometry) – Química Feltre Vol.1  ➗ Finished Ch.6 exercises (exponential functions – pending correction) – Matemática Volume Único  📚 Review with Feynman method 6 pomodoros | Day 91.
+
 
 
 
