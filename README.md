@@ -134,6 +134,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 89 - Finished Ch.5 (modular functions) & started Ch.6 (exponential functions) – Gelson Lezzi ⚛️ Completed Ch.20 (momentum & impulse) – Física Clássica Vol.1 📚 Review with Feynman method  6 pomodoros | Day 89.](./day89.md).
 - [Day 90 - Started Ch.20 (collisions) – read & solved some exercises – Física Clássica Vol.1  ➗ Continued Ch.6 (exponential functions) – Matemática Volume Único  📚 Review with Feynman method  6 pomodoros | Day 90.](./day90.md).
 - [Day 91 - Finished Ch.14 exercises (stoichiometry) – Química Feltre Vol.1  ➗ Finished Ch.6 exercises (exponential functions – pending correction) – Matemática Volume Único  📚 Review with Feynman method 6 pomodoros | Day 91.](./day91.md).
+- [Day 92 - Finished Ch.6 (exponential functions), started & finished theory of Ch.7 (logarithmic functions) – Matemática Volume Único ⚛️ Continued solving & correcting Ch.21 (collisions) – Física Clássica Vol.1  📚 Review with Feynman method  6 pomodoros | Day 92.](./day92.md).
 
 
 
@@ -248,6 +249,8 @@ timeline
     2025-07-25 : ➗ Finished Ch.5 (modular functions) & started Ch.6 (exponential functions) – Gelson Lezzi ⚛️ Completed Ch.20 (momentum & impulse) – Física Clássica Vol.1 📚 Review with Feynman method  6 pomodoros | Day 89.
 2025-07-26 : ⚛️ Started Ch.20 (collisions) – read & solved some exercises – Física Clássica Vol.1  ➗ Continued Ch.6 (exponential functions) – Matemática Volume Único  📚 Review with Feynman method  6 pomodoros | Day 90.
 2025-07-27 : 🧪 Finished Ch.14 exercises (stoichiometry) – Química Feltre Vol.1  ➗ Finished Ch.6 exercises (exponential functions – pending correction) – Matemática Volume Único  📚 Review with Feynman method 6 pomodoros | Day 91.
+2025-07-28 : ➗ Finished Ch.6 (exponential functions), started & finished theory of Ch.7 (logarithmic functions) – Matemática Volume Único ⚛️ Continued solving & correcting Ch.21 (collisions) – Física Clássica Vol.1  📚 Review with Feynman method  6 pomodoros | Day 92.
+
 
 
 
