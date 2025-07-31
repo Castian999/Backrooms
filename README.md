@@ -136,6 +136,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 91 - Finished Ch.14 exercises (stoichiometry) – Química Feltre Vol.1  ➗ Finished Ch.6 exercises (exponential functions – pending correction) – Matemática Volume Único  📚 Review with Feynman method 6 pomodoros | Day 91.](./day91.md).
 - [Day 92 - Finished Ch.6 (exponential functions), started & finished theory of Ch.7 (logarithmic functions) – Matemática Volume Único ⚛️ Continued solving & correcting Ch.21 (collisions) – Física Clássica Vol.1  📚 Review with Feynman method  6 pomodoros | Day 92.](./day92.md).
 - [Day 93 - Finished & corrected Ch.21 (Collisions), started Ch.22 (Center of Mass) – physics 🧪 Finished Ch.14, completed Feltre Chemistry Vol.1 + wrote a book review  🧠 Feynman review 6 pomodoros | Day 93.](./day93.md).
+- [Day 94 -  Continued Ch.7 (Logarithmic Functions) – math 🧪 Started Feltre Vol.2 Ch.1 (Soluções) 🧠 Feynman review 6 pomodoros | Day 94.](./day94.md).
+
 
 
 
@@ -252,6 +254,8 @@ timeline
 2025-07-27 : 🧪 Finished Ch.14 exercises (stoichiometry) – Química Feltre Vol.1  ➗ Finished Ch.6 exercises (exponential functions – pending correction) – Matemática Volume Único  📚 Review with Feynman method 6 pomodoros | Day 91.
 2025-07-28 : ➗ Finished Ch.6 (exponential functions), started & finished theory of Ch.7 (logarithmic functions) – Matemática Volume Único ⚛️ Continued solving & correcting Ch.21 (collisions) – Física Clássica Vol.1  📚 Review with Feynman method  6 pomodoros | Day 92.
 2025-07-29 : ⚛️ Finished & corrected Ch.21 (Collisions), started Ch.22 (Center of Mass) – physics 🧪 Finished Ch.14, completed Feltre Chemistry Vol.1 + wrote a book review  🧠 Feynman review 6 pomodoros | Day 93.
+2025-07-30 : 📘 Continued Ch.7 (Logarithmic Functions) – math 🧪 Started Feltre Vol.2 Ch.1 (Soluções) 🧠 Feynman review 6 pomodoros | Day 94.
+
 
 
 
