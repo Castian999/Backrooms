@@ -139,6 +139,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 94 -  Continued Ch.7 (Logarithmic Functions) – math 🧪 Started Feltre Vol.2 Ch.1 (Soluções) 🧠 Feynman review 6 pomodoros | Day 94.](./day94.md).
 - [Day 95 -  No study 0 pomodoros | Day 95.](./day95.md)
 - [Day 96 - Finished Ch. 22 (Center of Mass), started Statics (phys) | ⚗️ Advanced in Feltre Vol. 2 – Solutions | 📚 Feynman review.](./day96.md).
+- [Day 97 -  Finished exercises on Solutions, started corrections (chem) | ➗ Corrected Log Functions, began Progressions | No review today.](./day97.md).
+
 
 
 
@@ -259,6 +261,8 @@ timeline
 2025-07-30 : 📘 Continued Ch.7 (Logarithmic Functions) – math 🧪 Started Feltre Vol.2 Ch.1 (Soluções) 🧠 Feynman review 6 pomodoros | Day 94.
 2025-07-31 : ⚠️ No study 0 pomodoros | Day 95.
 2025-08-01 : 📘 Finished Ch. 22 (Center of Mass), started Statics (phys) | ⚗️ Advanced in Feltre Vol. 2 – Solutions | 📚 Feynman review.
+2025-08-02 : ⚗️ Finished exercises on Solutions, started corrections (chem) | ➗ Corrected Log Functions, began Progressions | No review today.
+
 
 
 
