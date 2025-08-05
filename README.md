@@ -141,6 +141,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 96 - Finished Ch. 22 (Center of Mass), started Statics (phys) | ⚗️ Advanced in Feltre Vol. 2 – Solutions | 📚 Feynman review.](./day96.md).
 - [Day 97 -  Finished exercises on Solutions, started corrections (chem) | ➗ Corrected Log Functions, began Progressions | No review today.](./day97.md).
 - [Day 98 - Finished Solutions, started Colligative Properties (chem) | ➗ Progressed on Progressions (math) | 📝 Started a simulation.](./day98.md).
+- [Day 99 - Rest day — physical and emotional recovery.](./day99.md).
 
 
 
@@ -264,6 +265,8 @@ timeline
 2025-08-01 : 📘 Finished Ch. 22 (Center of Mass), started Statics (phys) | ⚗️ Advanced in Feltre Vol. 2 – Solutions | 📚 Feynman review.
 2025-08-02 : ⚗️ Finished exercises on Solutions, started corrections (chem) | ➗ Corrected Log Functions, began Progressions | No review today.
 2025-08-03 : ⚗️ Finished Solutions, started Colligative Properties (chem) | ➗ Progressed on Progressions (math) | 📝 Started a simulation.
+2025-08-05 : 💤 Rest day — physical and emotional recovery.
+
 
 
 
