@@ -142,6 +142,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 97 -  Finished exercises on Solutions, started corrections (chem) | ➗ Corrected Log Functions, began Progressions | No review today.](./day97.md).
 - [Day 98 - Finished Solutions, started Colligative Properties (chem) | ➗ Progressed on Progressions (math) | 📝 Started a simulation.](./day98.md).
 - [Day 99 - Rest day — physical and emotional recovery.](./day99.md).
+- [Day 100 - Finished physics rigid body statics | ⚗️ Read theory on colligative properties (chem) | 🎯 Attempted tough military-style mock test — learning through failure.](./day100.md).
+
 
 
 
@@ -266,6 +268,8 @@ timeline
 2025-08-02 : ⚗️ Finished exercises on Solutions, started corrections (chem) | ➗ Corrected Log Functions, began Progressions | No review today.
 2025-08-03 : ⚗️ Finished Solutions, started Colligative Properties (chem) | ➗ Progressed on Progressions (math) | 📝 Started a simulation.
 2025-08-05 : 💤 Rest day — physical and emotional recovery.
+2025-08-06 : 🧮 Finished physics rigid body statics | ⚗️ Read theory on colligative properties (chem) | 🎯 Attempted tough military-style mock test — learning through failure.
+
 
 
 
