@@ -146,6 +146,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 101 - Finished + corrected colligative properties (chem) | 🧠 Missed pomodoro goal, but progress is progress.](./day101.md)
 - [Day 102 - No study sessions | ⚠️ Tough day, but still on track.](./day102.md).
 - [Day 103 -  6 pomodoros | Chemistry – Thermometry theory & exercises | Physics – Finished statics, started gravitation | Feynman review.](./day103.md).
+- [Day 104 -  6 pomodoros | Chem – Thermochemistry exercises + corrections | Math – Progress & corrections in Ch. 8 | Feynman review.](./day104.md).
 
 
 
@@ -274,6 +275,8 @@ timeline
 2025-08-07 : ⚗️ Finished + corrected colligative properties (chem) | 🧠 Missed pomodoro goal, but progress is progress.
 2025-08-07 : ❌ No study sessions | ⚠️ Tough day, but still on track.
 2025-08-08 : ✅ 6 pomodoros | Chemistry – Thermometry theory & exercises | Physics – Finished statics, started gravitation | Feynman review.
+2025-08-09 : ✅ 6 pomodoros | Chem – Thermochemistry exercises + corrections | Math – Progress & corrections in Ch. 8 | Feynman review.
+
 
 
 
