@@ -284,7 +284,7 @@ timeline
 2025-08-10 : 🛑 No pomodoros | Father's Day spent with family | Rest & recharge.
 2025-08-11 : ✅ 3 pomodoros | Math – Chapter 8 corrections & completion | Started Chapter 9 (Financial Mathematics).
 2025-08-12 : ✅ 3 pomodoros | Physics – Gravitation: theory finished + exercises done (corrections pending).
-2025-08-15 : ✅ 6 pomodoros | Chem – Finished Thermochemistry + began Chemical Kinetics | Math – Financial Math exercises | Review with Feynman method.
+2025-08-13 : ✅ 6 pomodoros | Chem – Finished Thermochemistry + began Chemical Kinetics | Math – Financial Math exercises | Review with Feynman method.
 
 
 
