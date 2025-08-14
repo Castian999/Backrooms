@@ -150,6 +150,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 105 - No pomodoros | Father's Day spent with family | Rest & recharge.](./day105.md).
 - [Day 106 - 3 pomodoros | Math – Chapter 8 corrections & completion | Started Chapter 9 (Financial Mathematics).](./day106.md).
 - [Day 107 - 3 pomodoros | Physics – Gravitation: theory finished + exercises done (corrections pending).](./day107.md).
+- [Day 108 -  6 pomodoros | Chem – Finished Thermochemistry + began Chemical Kinetics | Math – Financial Math exercises | Review with Feynman method.](./day108.md).
 
 
 
@@ -283,6 +284,8 @@ timeline
 2025-08-10 : 🛑 No pomodoros | Father's Day spent with family | Rest & recharge.
 2025-08-11 : ✅ 3 pomodoros | Math – Chapter 8 corrections & completion | Started Chapter 9 (Financial Mathematics).
 2025-08-12 : ✅ 3 pomodoros | Physics – Gravitation: theory finished + exercises done (corrections pending).
+2025-08-15 : ✅ 6 pomodoros | Chem – Finished Thermochemistry + began Chemical Kinetics | Math – Financial Math exercises | Review with Feynman method.
+
 
 
 
