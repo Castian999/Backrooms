@@ -153,6 +153,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 108 -  6 pomodoros | Chem – Finished Thermochemistry + began Chemical Kinetics | Math – Financial Math exercises | Review with Feynman method.](./day108.md).
 - [Day 109 -  Math – Finished Financial Math exercises + partial corrections | Started Chapter 10 – Triangle Similarity.](./day109.md).
 - [Day 110 -  Rest day – no study completed, recovery and reset.](./day110.md).
+- [Day 111 -  6 pomodoros | Chem – Chapter 4 (Kinetics: theory, exercises, completed pending corrections) | Math – Chapter 10 (Similarity: exercises) | Feynman review.](./day111.md).
+
 
 
 
@@ -289,6 +291,8 @@ timeline
 2025-08-13 : ✅ 6 pomodoros | Chem – Finished Thermochemistry + began Chemical Kinetics | Math – Financial Math exercises | Review with Feynman method.
 2025-08-14 : 📊 Math – Finished Financial Math exercises + partial corrections | Started Chapter 10 – Triangle Similarity.
 2025-08-15 : 💤 Rest day – no study completed, recovery and reset.
+2025-08-16 : ✅ 6 pomodoros | Chem – Chapter 4 (Kinetics: theory, exercises, completed pending corrections) | Math – Chapter 10 (Similarity: exercises) | Feynman review.
+
 
 
 
