@@ -155,6 +155,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 110 -  Rest day – no study completed, recovery and reset.](./day110.md).
 - [Day 111 -  6 pomodoros | Chem – Chapter 4 (Kinetics: theory, exercises, completed pending corrections) | Math – Chapter 10 (Similarity: exercises) | Feynman review.](./day111.md).
 - [Day 112 - 1 pomodoro | Chem – Chapter 4 (Kinetics completed) | Light day, performance below expectations.](./day112.md).
+- [Day 113 -  3 pomodoros | Math – Ch. 10 exercises + corrections | Finished Ch. 10 | Started Ch. 11 (Trigonometry in right triangles).](./day113.md).
+
 
 
 
@@ -294,6 +296,8 @@ timeline
 2025-08-15 : 💤 Rest day – no study completed, recovery and reset.
 2025-08-16 : ✅ 6 pomodoros | Chem – Chapter 4 (Kinetics: theory, exercises, completed pending corrections) | Math – Chapter 10 (Similarity: exercises) | Feynman review.
 2025-08-17 : ✅ 1 pomodoro | Chem – Chapter 4 (Kinetics completed) | Light day, performance below expectations.
+2025-08-18 : ✅ 3 pomodoros | Math – Ch. 10 exercises + corrections | Finished Ch. 10 | Started Ch. 11 (Trigonometry in right triangles).
+
 
 
 
