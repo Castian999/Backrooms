@@ -156,6 +156,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 111 -  6 pomodoros | Chem – Chapter 4 (Kinetics: theory, exercises, completed pending corrections) | Math – Chapter 10 (Similarity: exercises) | Feynman review.](./day111.md).
 - [Day 112 - 1 pomodoro | Chem – Chapter 4 (Kinetics completed) | Light day, performance below expectations.](./day112.md).
 - [Day 113 -  3 pomodoros | Math – Ch. 10 exercises + corrections | Finished Ch. 10 | Started Ch. 11 (Trigonometry in right triangles).](./Day113.md).
+- [Day 114 -  6 pomodoros | Review (Feynman) | Physics Ch. 24 (Gravitation) completed | Started Ch. 25 (Fluid Statics) | Chemistry Vol. 2 Ch. 5 (Homogeneous Equilibrium) nearly finished reading.](./day114.md).
+
 
 
 
@@ -297,6 +299,8 @@ timeline
 2025-08-16 : ✅ 6 pomodoros | Chem – Chapter 4 (Kinetics: theory, exercises, completed pending corrections) | Math – Chapter 10 (Similarity: exercises) | Feynman review.
 2025-08-17 : ✅ 1 pomodoro | Chem – Chapter 4 (Kinetics completed) | Light day, performance below expectations.
 2025-08-18 : ✅ 3 pomodoros | Math – Ch. 10 exercises + corrections | Finished Ch. 10 | Started Ch. 11 (Trigonometry in right triangles).
+2025-08-19 : ✅ 6 pomodoros | Review (Feynman) | Physics Ch. 24 (Gravitation) completed | Started Ch. 25 (Fluid Statics) | Chemistry Vol. 2 Ch. 5 (Homogeneous Equilibrium) nearly finished reading.
+
 
 
 
