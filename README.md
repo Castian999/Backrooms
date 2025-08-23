@@ -159,6 +159,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 114 -  6 pomodoros | Review (Feynman) | Physics Ch. 24 (Gravitation) completed | Started Ch. 25 (Fluid Statics) | Chemistry Vol. 2 Ch. 5 (Homogeneous Equilibrium) nearly finished reading.](./day114.md).
 - [Day 115 -  6 pomodoros | Chemistry Ch. 5 (Homogeneous Equilibrium) theory finished + exercises done (correction pending) | Math Ch. 11 (Trigonometry in Right Triangles) exercises | Review (Feynman).](./day115.md).
 - [Day 116 - 6 pomodoros | Math Ch. 11 (Trigonometry in Right Triangles) exercises finished (correction in progress) | Physics Ch. 25 (Fluid Statics) theory finished + exercises started | Review (Feynman).](./day116.md).
+- [Day 117 -  4 pomodoros | Physics Ch. 25 (Fluid Statics) exercises completed (correction pending) | Chemistry Ch. 5 (Homogeneous Equilibrium) corrections in progress.](./day117.md).
 
 
 
@@ -304,6 +305,8 @@ timeline
 2025-08-19 : ✅ 6 pomodoros | Review (Feynman) | Physics Ch. 24 (Gravitation) completed | Started Ch. 25 (Fluid Statics) | Chemistry Vol. 2 Ch. 5 (Homogeneous Equilibrium) nearly finished reading.
 2025-08-20 : ✅ 6 pomodoros | Chemistry Ch. 5 (Homogeneous Equilibrium) theory finished + exercises done (correction pending) | Math Ch. 11 (Trigonometry in Right Triangles) exercises | Review (Feynman).
 2025-08-21 : ✅ 6 pomodoros | Math Ch. 11 (Trigonometry in Right Triangles) exercises finished (correction in progress) | Physics Ch. 25 (Fluid Statics) theory finished + exercises started | Review (Feynman).
+2025-08-22 : ✅ 4 pomodoros | Physics Ch. 25 (Fluid Statics) exercises completed (correction pending) | Chemistry Ch. 5 (Homogeneous Equilibrium) corrections in progress.
+
 
 
 
