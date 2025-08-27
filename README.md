@@ -163,6 +163,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 118 - 6 pomodoros | Chemistry Ch. 5 corrections almost done | Mathematics Ch. 11 fully completed | Feyman review.](./day118.md).
 - [Day 119 - 6 pomodoros | Finished Chemistry Ch. 5 | Started Chemistry Ch. 6 | Started Math Ch. 12 | Feyman review.](./day119.md).
 - [Day 120 -  1 pomodoro | Math Ch. 12 exercises (almost done).](./day120.md).
+- [Day 121 - 0 pomodoros | Rest day (low health & morale).](./day121.md).
 
 
 
@@ -312,6 +313,8 @@ timeline
 2025-08-23 : ✅ 6 pomodoros | Chemistry Ch. 5 corrections almost done | Mathematics Ch. 11 fully completed | Feyman review.
 2025-08-24 : ✅ 6 pomodoros | Finished Chemistry Ch. 5 | Started Chemistry Ch. 6 | Started Math Ch. 12 | Feyman review.
 2025-08-25 : ⚠️ 1 pomodoro | Math Ch. 12 exercises (almost done).
+2025-08-26 : ❌ 0 pomodoros | Rest day (low health & morale).
+
 
 
 
