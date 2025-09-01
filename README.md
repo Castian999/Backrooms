@@ -168,6 +168,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 123 - 2 pomodoros | Math (Ch.12 completed).](./day123.md).
 - [Day 124 -  2 pomodoros | Physics (Ch.25 completed, Ch.26 started).](./day124.md).
 - [Day 125 -  3 pomodoros | Chemistry (Ch.6 finished exercises, started corrections, error notebook created).](./day125.md).
+- [Day 126 - 2 pomodoros | Chemistry (Ch.6 fully completed).](./day126.md).
 
 
 
@@ -323,6 +324,8 @@ timeline
 2025-08-28 : ✅ 2 pomodoros | Math (Ch.12 completed).
 2025-08-29 : ✅ 2 pomodoros | Physics (Ch.25 completed, Ch.26 started).
 2025-08-30 : ✅ 3 pomodoros | Chemistry (Ch.6 finished exercises, started corrections, error notebook created).
+2025-08-31 : ✅ 2 pomodoros | Chemistry (Ch.6 fully completed).
+
 
 
 
