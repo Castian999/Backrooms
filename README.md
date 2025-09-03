@@ -170,6 +170,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 125 -  3 pomodoros | Chemistry (Ch.6 finished exercises, started corrections, error notebook created).](./day125.md).
 - [Day 126 - 2 pomodoros | Chemistry (Ch.6 fully completed).](./day126.md).
 - [Day 127 - 2 pomodoros | Math (Ch.13 theory + exercises done, corrections pending).](./day127.md).
+- [Day 128 - 2 pomodoros | Physics – Finished theory + started exercises on Archimedes’ Principle (Ch.26).](./day128.md).
 
 
 
@@ -327,6 +328,8 @@ timeline
 2025-08-30 : ✅ 3 pomodoros | Chemistry (Ch.6 finished exercises, started corrections, error notebook created).
 2025-08-31 : ✅ 2 pomodoros | Chemistry (Ch.6 fully completed).
 2025-09-01 : ✅ 2 pomodoros | Math (Ch.13 theory + exercises done, corrections pending).
+2025-09-20 : ✅ 2 pomodoros | Physics – Finished theory + started exercises on Archimedes’ Principle (Ch.26).
+
 
 
 
