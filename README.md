@@ -174,6 +174,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 129 - Started *Chemistry Vol. 2 – Ch.7 (Homogeneous Equilibrium)* | Only 1 pomodoro, but still moving.](./day129.md).
 - [Day 130 -  Finished Chapter 13 – Trigonometric Circle (Math) | Better than yesterday, 2 pomodoros done.](./day130.md)
 - [Day 131 -  Physics – Finished Ch. 26 exercises (Archimedes' Principle), corrections pending | Just 1 pomodoro.](./day131.md).
+- [Day 132 - Chem – Finished theory + nearly completed exercises (Ch. 7, heterogeneous equilibria) | 2 pomodoros, better than yesterday.](./day132.md).
+
 
 
 
@@ -335,6 +337,8 @@ timeline
 2025-09-03 : ⚗️ Started *Chemistry Vol. 2 – Ch.7 (Homogeneous Equilibrium)* | Only 1 pomodoro, but still moving.
 2025-09-04 : ➗ Finished Chapter 13 – Trigonometric Circle (Math) | Better than yesterday, 2 pomodoros done.
 2025-09-05 : 🧭 Physics – Finished Ch. 26 exercises (Archimedes' Principle), corrections pending | Just 1 pomodoro.
+2025-09-06 : ⚗️ Chem – Finished theory + nearly completed exercises (Ch. 7, heterogeneous equilibria) | 2 pomodoros, better than yesterday.
+
 
 
 
