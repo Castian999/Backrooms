@@ -175,6 +175,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 130 -  Finished Chapter 13 – Trigonometric Circle (Math) | Better than yesterday, 2 pomodoros done.](./day130.md)
 - [Day 131 -  Physics – Finished Ch. 26 exercises (Archimedes' Principle), corrections pending | Just 1 pomodoro.](./day131.md).
 - [Day 132 - Chem – Finished theory + nearly completed exercises (Ch. 7, heterogeneous equilibria) | 2 pomodoros, better than yesterday.](./day132.md).
+- [Day 133 - Rest day – 0 pomodoros. Recharging after a difficult week, expecting better results tomorrow.](./day133.md).
 
 
 
@@ -338,6 +339,8 @@ timeline
 2025-09-04 : ➗ Finished Chapter 13 – Trigonometric Circle (Math) | Better than yesterday, 2 pomodoros done.
 2025-09-05 : 🧭 Physics – Finished Ch. 26 exercises (Archimedes' Principle), corrections pending | Just 1 pomodoro.
 2025-09-06 : ⚗️ Chem – Finished theory + nearly completed exercises (Ch. 7, heterogeneous equilibria) | 2 pomodoros, better than yesterday.
+2025-09-07 : 🛌 Rest day – 0 pomodoros. Recharging after a difficult week, expecting better results tomorrow.
+
 
 
 
