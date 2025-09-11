@@ -178,6 +178,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 133 - Rest day – 0 pomodoros. Recharging after a difficult week, expecting better results tomorrow.](./day133.md).
 - [Day 134 - 📘 Math (Vol. Único) – Ch.14: theory read + all selected exercises completed (still need correction). 3 pomodoros. Stronger day.](./day134.md)
 - [Day 135 - Física Clássica Vol. 1 – Finished Ch.26 (Principle of Archimedes), started Ch.27 (Fluid Dynamics). 3 pomodoros. Strong progress.](./day135.md).
+- [Day 136 - Física Clássica Vol. 1 – Finished theory of Ch.27 (Fluid Dynamics) and started exercises. 1 pomodoro.](./day136.md).
 
 
 
@@ -346,6 +347,8 @@ timeline
 2025-09-07 : 🛌 Rest day – 0 pomodoros. Recharging after a difficult week, expecting better results tomorrow.
 2025-09-08 : 📘 Math (Vol. Único) – Ch.14: theory read + all selected exercises completed (still need correction). 3 pomodoros. Stronger day.
 2025-09-09 : 📗 Física Clássica Vol. 1 – Finished Ch.26 (Principle of Archimedes), started Ch.27 (Fluid Dynamics). 3 pomodoros. Strong progress.
+2025-09-10 : 📗 Física Clássica Vol. 1 – Finished theory of Ch.27 (Fluid Dynamics) and started exercises. 1 pomodoro.
+
 
 
 
