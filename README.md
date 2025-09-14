@@ -181,6 +181,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 136 - Física Clássica Vol. 1 – Finished theory of Ch.27 (Fluid Dynamics) and started exercises. 1 pomodoro.](./day136.md).
 - [Day 137 -  No pomodoros – rest day due to exhaustion.](./day137.md).
 - [Day 138 -  2 pomodoros – finished exercises and nearly completed corrections for Chapter 27 (Fluid Dynamics).](./day138.md).
+- [Day 139 -  2 pomodoros – finished exercises and partial corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2).](./day139.md).
+
 
 
 
@@ -352,6 +354,8 @@ timeline
 2025-09-10 : 📗 Física Clássica Vol. 1 – Finished theory of Ch.27 (Fluid Dynamics) and started exercises. 1 pomodoro.
 2025-09-11 : ❌ No pomodoros – rest day due to exhaustion.
 2025-09-13 : 2 pomodoros – finished exercises and nearly completed corrections for Chapter 27 (Fluid Dynamics).
+2025-09-13 : 2 pomodoros – finished exercises and partial corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2).
+
 
 
 
