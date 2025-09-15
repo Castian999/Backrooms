@@ -182,6 +182,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 137 -  No pomodoros – rest day due to exhaustion.](./day137.md).
 - [Day 138 -  2 pomodoros – finished exercises and nearly completed corrections for Chapter 27 (Fluid Dynamics).](./day138.md).
 - [Day 139 -  2 pomodoros – finished exercises and partial corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2).](./day139.md).
+- [Day 140 - 2 pomodoros – corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2), almost completed.](./day140.md).
 
 
 
@@ -355,6 +356,8 @@ timeline
 2025-09-11 : ❌ No pomodoros – rest day due to exhaustion.
 2025-09-13 : 2 pomodoros – finished exercises and nearly completed corrections for Chapter 27 (Fluid Dynamics).
 2025-09-13 : 2 pomodoros – finished exercises and partial corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2).
+2025-09-14 : 2 pomodoros – corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2), almost completed.
+
 
 
 
