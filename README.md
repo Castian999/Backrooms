@@ -183,6 +183,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 138 -  2 pomodoros – finished exercises and nearly completed corrections for Chapter 27 (Fluid Dynamics).](./day138.md).
 - [Day 139 -  2 pomodoros – finished exercises and partial corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2).](./day139.md).
 - [Day 140 - 2 pomodoros – corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2), almost completed.](./day140.md).
+- [Day 141 -  0 pomodoros – day consumed by other responsibilities, no study progress.](./day141.md).
 
 
 
@@ -357,6 +358,8 @@ timeline
 2025-09-13 : 2 pomodoros – finished exercises and nearly completed corrections for Chapter 27 (Fluid Dynamics).
 2025-09-13 : 2 pomodoros – finished exercises and partial corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2).
 2025-09-14 : 2 pomodoros – corrections for Chapter 7 (Heterogeneous Equilibrium, Química Feltre Vol. 2), almost completed.
+2025-09-15 : ❌ 0 pomodoros – day consumed by other responsibilities, no study progress.
+
 
 
 
