@@ -186,6 +186,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 141 -  0 pomodoros – day consumed by other responsibilities, no study progress.](./day141.md).
 - [Day 142 -  1 pomodoro | Physics – Completed Ch. 27 (Fluid Dynamics) | Finished *Classical Physics Vol. 1*! 🎉](./day142.md).
 - [Day 143 -  2 pomodoros | Physics – Wrote & finished review of *Classical Physics Vol. 1* | Preparing for future video.](./day143.md).
+- [Day 144 -  0 pomodoros | Exhaustion + other tasks | No study progress today.](./day144.md).
 
 
 
@@ -363,6 +364,8 @@ timeline
 2025-09-15 : ❌ 0 pomodoros – day consumed by other responsibilities, no study progress.
 2025-09-16 : ✅ 1 pomodoro | Physics – Completed Ch. 27 (Fluid Dynamics) | Finished *Classical Physics Vol. 1*! 🎉
 2025-09-17 : ✅ 2 pomodoros | Physics – Wrote & finished review of *Classical Physics Vol. 1* | Preparing for future video.
+2025-09-18 : ❌ 0 pomodoros | Exhaustion + other tasks | No study progress today.
+
 
 
 
