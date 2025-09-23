@@ -190,6 +190,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 145 - 6 pomodoros | Physics review (PT posted + EN in progress) | Chemistry review started | Feynman review.](./day145.md).
 - [Day 146 - 1 pomodoro | Chemistry Feltre Vol. 1 review continued | Plan: finish PT then do EN version.](./day146.md).
 - [Day 147 - 0 pomodoros | Felt unwell, no study progress.](./day147.md).
+- [Day 148 -  3 pomodoros | Finished Math Ch.14, started Ch.15.](./day148.md).
 
 
 
@@ -371,6 +372,8 @@ timeline
 2025-09-19 : ✅ 6 pomodoros | Physics review (PT posted + EN in progress) | Chemistry review started | Feynman review.
 2025-09-20 : ✅ 1 pomodoro | Chemistry Feltre Vol. 1 review continued | Plan: finish PT then do EN version.
 2025-09-21 : ❌ 0 pomodoros | Felt unwell, no study progress.
+2025-09-22 : ✅ 3 pomodoros | Finished Math Ch.14, started Ch.15.
+
 
 
 
