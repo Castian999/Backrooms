@@ -193,6 +193,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 148 -  3 pomodoros | Finished Math Ch.14, started Ch.15.](./day148.md).
 - [Day 149 -  4 pomodoros | Finished + posted English review (Physics v1) & Portuguese review (Chemistry v1).](./day149.md).
 - [Day 150 -  0 pomodoros | Psychologically drained, no study progress.](./day150.md).
+- [Dy 151 -  3 pomodoros | Advanced and nearly completed Chapter 15 of Mathematics (trigonometric ratios relations).](./day151.md).
 
 
 
@@ -377,6 +378,8 @@ timeline
 2025-09-22 : ✅ 3 pomodoros | Finished Math Ch.14, started Ch.15.
 2025-09-23 : ✅ 4 pomodoros | Finished + posted English review (Physics v1) & Portuguese review (Chemistry v1).
 2025-09-24 : ❌ 0 pomodoros | Psychologically drained, no study progress.
+2025-09-25 : ✅ 3 pomodoros | Advanced and nearly completed Chapter 15 of Mathematics (trigonometric ratios relations).
+
 
 
 
