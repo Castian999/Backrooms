@@ -195,6 +195,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 150 -  0 pomodoros | Psychologically drained, no study progress.](./day150.md).
 - [Day 151 -  3 pomodoros | Advanced and nearly completed Chapter 15 of Mathematics (trigonometric ratios relations).](./day151.md).
 - [Day 152 - 0 pomodoros | Rest day due to physical and mental exhaustion.](./day152.md).
+- [Day 153 - 2 pomodoros | Worked on English review video script for *Feltre Chemistry Vol. 1*.](./day153.md).
 
 
 
@@ -381,6 +382,8 @@ timeline
 2025-09-24 : ❌ 0 pomodoros | Psychologically drained, no study progress.
 2025-09-25 : ✅ 3 pomodoros | Advanced and nearly completed Chapter 15 of Mathematics (trigonometric ratios relations).
 2025-09-26 : ❌ 0 pomodoros | Rest day due to physical and mental exhaustion.
+2025-09-27 : ✅ 2 pomodoros | Worked on English review video script for *Feltre Chemistry Vol. 1*.
+
 
 
 
