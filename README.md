@@ -199,6 +199,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 154 - 3 pomodoros | Posted English review video of *Feltre Chemistry Vol. 1*. Finished Chapter 7 of *Feltre Chemistry Vol. 2*.](./day154.md).
 - [Day 155 - 2 pomodoros | Finished and corrected Chapter 15 of *Matemática Volume Único* (Gelson Iezzi).](./day155.md).
 - [Day 156 - 6 pomodoros | Started and advanced in Physics Vol. 2 (Ch.1 Thermometry) and Chemistry Vol. 2 (Ch.8 Electrochemistry); review with Feynman.](./day156.md).
+- [Day 157 - 2 pomodoros | Finished exercises of Physics Vol. 2 Ch.1 (Thermometry); almost completed corrections.](./day157.md).
+
 
 
 
@@ -390,6 +392,8 @@ timeline
 2025-09-28 : ✅ 3 pomodoros | Posted English review video of *Feltre Chemistry Vol. 1*. Finished Chapter 7 of *Feltre Chemistry Vol. 2*.
 2025-09-29 : ✅ 2 pomodoros | Finished and corrected Chapter 15 of *Matemática Volume Único* (Gelson Iezzi).
 2025-09-30 : ✅ 6 pomodoros | Started and advanced in Physics Vol. 2 (Ch.1 Thermometry) and Chemistry Vol. 2 (Ch.8 Electrochemistry); review with Feynman.
+2025-10-01 : ✅ 2 pomodoros | Finished exercises of Physics Vol. 2 Ch.1 (Thermometry); almost completed corrections.
+
 
 
 
