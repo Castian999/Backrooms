@@ -201,6 +201,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 156 - 6 pomodoros | Started and advanced in Physics Vol. 2 (Ch.1 Thermometry) and Chemistry Vol. 2 (Ch.8 Electrochemistry); review with Feynman.](./day156.md).
 - [Day 157 - 2 pomodoros | Finished exercises of Physics Vol. 2 Ch.1 (Thermometry); almost completed corrections.](./day157.md).
 - [Day 158 -  0 pomodoros | Rest day due to health issues.](./day158.md)
+- [Day 159 -  4 pomodoros | Physics – Finished Ch.1 (Thermometry) & started Ch.2 (Thermal Expansion) | Chem – Electrochemistry theory progress.](./day159.md).
 
 
 
@@ -395,6 +396,8 @@ timeline
 2025-09-30 : ✅ 6 pomodoros | Started and advanced in Physics Vol. 2 (Ch.1 Thermometry) and Chemistry Vol. 2 (Ch.8 Electrochemistry); review with Feynman.
 2025-10-01 : ✅ 2 pomodoros | Finished exercises of Physics Vol. 2 Ch.1 (Thermometry); almost completed corrections.
 2025-10-02 : ❌ 0 pomodoros | Rest day due to health issues.
+2025-10-03 : ✅ 4 pomodoros | Physics – Finished Ch.1 (Thermometry) & started Ch.2 (Thermal Expansion) | Chem – Electrochemistry theory progress.
+
 
 
 
