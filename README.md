@@ -203,6 +203,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 158 -  0 pomodoros | Rest day due to health issues.](./day158.md)
 - [Day 159 -  4 pomodoros | Physics – Finished Ch.1 (Thermometry) & started Ch.2 (Thermal Expansion) | Chem – Electrochemistry theory progress.](./day159.md).
 - [Day 160 - 0 pomodoros | Personal matters took priority today — no study progress.](./day160.md).
+- [Day 161 - 1 pomodoro | Completed a Feynman review session — kept the streak alive.](./day161.md).
 
 
 
@@ -399,6 +400,8 @@ timeline
 2025-10-02 : ❌ 0 pomodoros | Rest day due to health issues.
 2025-10-03 : ✅ 4 pomodoros | Physics – Finished Ch.1 (Thermometry) & started Ch.2 (Thermal Expansion) | Chem – Electrochemistry theory progress.
 2025-10-04 : ❌ 0 pomodoros | Personal matters took priority today — no study progress.
+2025-10-05 : ☑️ 1 pomodoro | Completed a Feynman review session — kept the streak alive.
+
 
 
 
