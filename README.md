@@ -205,6 +205,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 160 - 0 pomodoros | Personal matters took priority today — no study progress.](./day160.md).
 - [Day 161 - 1 pomodoro | Completed a Feynman review session — kept the streak alive.](./day161.md).
 - [Day 162 - 2 pomodoros | Started Chapter 16 (Circular Functions) and completed a Feynman review session.](./day162.md).
+- [Day 163 - 0 pomodoros | Spent the day fixing and reorganizing study notes — no time left for real study progress.](./day163.md).
 
 
 
@@ -403,6 +404,8 @@ timeline
 2025-10-04 : ❌ 0 pomodoros | Personal matters took priority today — no study progress.
 2025-10-05 : ☑️ 1 pomodoro | Completed a Feynman review session — kept the streak alive.
 2025-10-06 : ☑️ 2 pomodoros | Started Chapter 16 (Circular Functions) and completed a Feynman review session.
+2025-10-07 : ❌ 0 pomodoros | Spent the day fixing and reorganizing study notes — no time left for real study progress.
+
 
 
 
