@@ -207,6 +207,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 162 - 2 pomodoros | Started Chapter 16 (Circular Functions) and completed a Feynman review session.](./day162.md).
 - [Day 163 - 0 pomodoros | Spent the day fixing and reorganizing study notes — no time left for real study progress.](./day163.md).
 - [Day 164 - 1 pomodoro | Nearly finished Chapter 2 of *Classical Physics Vol. 2* (Thermal Expansion).](./day164.md).
+- [Day 165 - 3 pomodoros | Completed Chapter 16 exercises (Circular Functions) and began corrections.](./day165.md).
 
 
 
@@ -407,6 +408,8 @@ timeline
 2025-10-06 : ☑️ 2 pomodoros | Started Chapter 16 (Circular Functions) and completed a Feynman review session.
 2025-10-07 : ❌ 0 pomodoros | Spent the day fixing and reorganizing study notes — no time left for real study progress.
 2025-10-08 : ✅ 1 pomodoro | Nearly finished Chapter 2 of *Classical Physics Vol. 2* (Thermal Expansion).
+2025-10-09 : ✅ 3 pomodoros | Completed Chapter 16 exercises (Circular Functions) and began corrections.
+
 
 
 
