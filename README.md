@@ -208,6 +208,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 163 - 0 pomodoros | Spent the day fixing and reorganizing study notes — no time left for real study progress.](./day163.md).
 - [Day 164 - 1 pomodoro | Nearly finished Chapter 2 of *Classical Physics Vol. 2* (Thermal Expansion).](./day164.md).
 - [Day 165 - 3 pomodoros | Completed Chapter 16 exercises (Circular Functions) and began corrections.](./day165.md).
+- [Day 166 -  4 pomodoros | Finished Chapter 2 (Thermal Expansion) in Physics Vol. 2 and resumed Electrochemistry in Chemistry Vol. 2.](./day166.md).
 
 
 
@@ -409,6 +410,8 @@ timeline
 2025-10-07 : ❌ 0 pomodoros | Spent the day fixing and reorganizing study notes — no time left for real study progress.
 2025-10-08 : ✅ 1 pomodoro | Nearly finished Chapter 2 of *Classical Physics Vol. 2* (Thermal Expansion).
 2025-10-09 : ✅ 3 pomodoros | Completed Chapter 16 exercises (Circular Functions) and began corrections.
+2025-10-10 : ✅ 4 pomodoros | Finished Chapter 2 (Thermal Expansion) in Physics Vol. 2 and resumed Electrochemistry in Chemistry Vol. 2.
+
 
 
 
