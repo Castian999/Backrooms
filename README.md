@@ -211,6 +211,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 166 -  4 pomodoros | Finished Chapter 2 (Thermal Expansion) in Physics Vol. 2 and resumed Electrochemistry in Chemistry Vol. 2.](./day166.md).
 - [Day 167 -  2 pomodoros | Continued deep reading of Chapter 8 – Electrochemistry in Chemistry Vol. 2.](./day167.md).
 - [Day 168 - 6 pomodoros | Completed Electrochemistry (Chemistry Vol. 2) and Circular Functions (Math Vol. Único). Began Transformations.](./day168.md).
+- [Day 169 - 1 pomodoro | Started Calorimetry (Física Clássica Vol. 2) — tough morning after intense training.](./day169.md).
 
 
 
@@ -415,6 +416,8 @@ timeline
 2025-10-10 : ✅ 4 pomodoros | Finished Chapter 2 (Thermal Expansion) in Physics Vol. 2 and resumed Electrochemistry in Chemistry Vol. 2.
 2025-10-11 : ✅ 2 pomodoros | Continued deep reading of Chapter 8 – Electrochemistry in Chemistry Vol. 2.
 2025-10-12 : ✅ 6 pomodoros | Completed Electrochemistry (Chemistry Vol. 2) and Circular Functions (Math Vol. Único). Began Transformations.
+2025-10-13 : ⚪ 1 pomodoro | Started Calorimetry (Física Clássica Vol. 2) — tough morning after intense training.
+
 
 
 
