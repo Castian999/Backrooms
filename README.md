@@ -215,6 +215,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 170 -  0 pomodoros | Got caught in procrastination — no progress made today.](./day170.md).
 - [Day 171 - 3 pomodoros | Finished the theory and almost completed the exercises for Calorimetry (Physics Vol. 2).](./day171.md).
 - [Day 172 - 4 pomodoros | Progress in both math (Transformations) and physics (Calorimetry). Productivity recovering.](./day172.md).
+- [Day 173 -  0 pomodoros | Off day — health and mindset didn’t allow for study.](./day173.md).
+
 
 
 
@@ -423,6 +425,8 @@ timeline
 2025-10-14 : ❌ 0 pomodoros | Got caught in procrastination — no progress made today.
 2025-10-15 : ⏳ 3 pomodoros | Finished the theory and almost completed the exercises for Calorimetry (Physics Vol. 2).
 2025-10-16 : ⏳ 4 pomodoros | Progress in both math (Transformations) and physics (Calorimetry). Productivity recovering.
+2025-10-17 : ❌ 0 pomodoros | Off day — health and mindset didn’t allow for study.
+
 
 
 
