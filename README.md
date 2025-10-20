@@ -217,6 +217,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 172 - 4 pomodoros | Progress in both math (Transformations) and physics (Calorimetry). Productivity recovering.](./day172.md).
 - [Day 173 -  0 pomodoros | Off day — health and mindset didn’t allow for study.](./day173.md).
 - [Day 174 -  3 pomodoros | Chemistry – Finished Electrochemistry (Ch. 8) and started Electrolysis (Ch. 9)](./day174.md).
+- [Day175 - 1 pomodoro | Chemistry – Started theoretical section of Electrolysis (Ch. 9)](./day175.md).
 
 
 
@@ -428,6 +429,8 @@ timeline
 2025-10-16 : ⏳ 4 pomodoros | Progress in both math (Transformations) and physics (Calorimetry). Productivity recovering.
 2025-10-17 : ❌ 0 pomodoros | Off day — health and mindset didn’t allow for study.
 2025-10-18 : ✅ 3 pomodoros | Chemistry – Finished Electrochemistry (Ch. 8) and started Electrolysis (Ch. 9).
+2025-10-19 : ⚪ 1 pomodoro | Chemistry – Started theoretical section of Electrolysis (Ch. 9)
+
 
 
 
