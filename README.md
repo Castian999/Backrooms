@@ -220,6 +220,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day175 - 1 pomodoro | Chemistry – Started theoretical section of Electrolysis (Ch. 9)](./day175.md).
 - [Day 176 - 0 pomodoros | Rest day – Felt unwell](./day176.md).
 - [Day 177 - 0 pomodoros | Recovery still ongoing – couldn’t study](./day177.md).
+- [Day 178 - 2 pomodoros | Gradual recovery — finished Chapter 3 (Calorimetry) in Physics Vol. 2](./day178.md).
 
 
 
@@ -434,6 +435,8 @@ timeline
 2025-10-19 : ⚪ 1 pomodoro | Chemistry – Started theoretical section of Electrolysis (Ch. 9)
 2025-10-20 : 🔴 0 pomodoros | Rest day – Felt unwell
 2025-10-21 : 🔴 0 pomodoros | Recovery still ongoing – couldn’t study.
+2025-10-22 : 🟡 2 pomodoros | Gradual recovery — finished Chapter 3 (Calorimetry) in Physics Vol. 2
+
 
 
 
