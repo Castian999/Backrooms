@@ -223,6 +223,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 178 - 2 pomodoros | Gradual recovery — finished Chapter 3 (Calorimetry) in Physics Vol. 2](./day178.md).
 - [Day 179 -  1 pomodoro | Finished Math Ch.17 and began Ch.18 on trigonometric equations and inequalities.](./day179.md).
 - [Day 180 - 4 pomodoros | Completed Physics Ch.4 and read Chemistry Ch.9 (electrolysis). Strong recovery and solid focus today.](./day180.md).
+- [Day 181 - 0 pomodoros | Technical issues disrupted the day — no study progress made.](./day181.md).
 
 
 
@@ -440,6 +441,8 @@ timeline
 2025-10-22 : 🟡 2 pomodoros | Gradual recovery — finished Chapter 3 (Calorimetry) in Physics Vol. 2
 2025-10-23 : 🟡 1 pomodoro | Finished Math Ch.17 and began Ch.18 on trigonometric equations and inequalities.
 2025-10-24 : 🟢 4 pomodoros | Completed Physics Ch.4 and read Chemistry Ch.9 (electrolysis). Strong recovery and solid focus today.
+2025-10-25 : ❌ 0 pomodoros | Technical issues disrupted the day — no study progress made.
+
 
 
 
