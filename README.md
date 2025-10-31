@@ -228,6 +228,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 183 - 6 pomodoros | Full productivity restored — major progress in physics and math, plus a Feynman review session.](./day183.md).
 - [Day 184 - 0 pomodoros | Felt unwell and had to handle other commitments — no study progress.](./day184.md).
 - [Day 185 -  0 pomodoros | Struggled mentally and gave in to procrastination — no study progress.](./day185.md).
+- [Day 186 -  2 pomodoros | Finished the exercises from Chapter 18 of math, corrections still to come — a solid recovery from yesterday.](./day186.md).
 
 
 
@@ -450,6 +451,8 @@ timeline
 2025-10-27 : ✅ 6 pomodoros | Full productivity restored — major progress in physics and math, plus a Feynman review session.
 2025-10-28 : ❌ 0 pomodoros | Felt unwell and had to handle other commitments — no study progress.
 2025-10-29 : ❌ 0 pomodoros | Struggled mentally and gave in to procrastination — no study progress.
+2025-10-30 : ✅ 2 pomodoros | Finished the exercises from Chapter 18 of math, corrections still to come — a solid recovery from yesterday.
+
 
 
 
