@@ -230,6 +230,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 185 -  0 pomodoros | Struggled mentally and gave in to procrastination — no study progress.](./day185.md).
 - [Day 186 -  2 pomodoros | Finished the exercises from Chapter 18 of math, corrections still to come — a solid recovery from yesterday.](./day186.md).
 - [Day 187 - 0 pomodoros | Procrastination won today — no study progress, but I’ll bounce back tomorrow.](./day187.md).
+- [Day 188 - 1 pomodoro | Finished the electrolysis exercises from Química Feltre Vol. 2 and began corrections — solid progress.](./day188.md).
 
 
 
@@ -454,6 +455,8 @@ timeline
 2025-10-29 : ❌ 0 pomodoros | Struggled mentally and gave in to procrastination — no study progress.
 2025-10-30 : ✅ 2 pomodoros | Finished the exercises from Chapter 18 of math, corrections still to come — a solid recovery from yesterday.
 2025-10-31 : ❌ 0 pomodoros | Procrastination won today — no study progress, but I’ll bounce back tomorrow.
+2025-11-01 : ✅ 1 pomodoro | Finished the electrolysis exercises from Química Feltre Vol. 2 and began corrections — solid progress.
+
 
 
 
