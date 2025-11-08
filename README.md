@@ -236,6 +236,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 191 -  1 pomodoro | Review session using the Feynman Technique — consolidating knowledge.](./day191.md).
 - [Day 192 - 1 pomodoro | Continued Feynman review — steady reinforcement and mental clarity.](./day192.md).
 - [Day 193 - 2 pomodoros | Feynman review + math corrections — sharper focus and gradual recovery.](./day193.md).
+- [Day 194 -  0 pomodoros | Busy all day — no study time, but still holding the line mentally.](./day194.md).
 
 
 
@@ -466,6 +467,8 @@ timeline
 2025-11-04 : ☑️ 1 pomodoro | Review session using the Feynman Technique — consolidating knowledge.
 2025-11-05 : ☑️ 1 pomodoro | Continued Feynman review — steady reinforcement and mental clarity.
 2025-11-06 : ☑️ 2 pomodoros | Feynman review + math corrections — sharper focus and gradual recovery.
+2025-11-07 : ❌ 0 pomodoros | Busy all day — no study time, but still holding the line mentally.
+
 
 
 
