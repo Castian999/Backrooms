@@ -238,6 +238,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 193 - 2 pomodoros | Feynman review + math corrections — sharper focus and gradual recovery.](./day193.md).
 - [Day 194 -  0 pomodoros | Busy all day — no study time, but still holding the line mentally.](./day194.md).
 - [Day 195 - 1 pomodoro | Feynman review — small but meaningful progress, focus regaining shape.](./day195.md).
+- [Day 196 -  0 pomodoros | A day lost to procrastination — but awareness brings the will to rise again.](./day196.md).
 
 
 
@@ -470,6 +471,8 @@ timeline
 2025-11-06 : ☑️ 2 pomodoros | Feynman review + math corrections — sharper focus and gradual recovery.
 2025-11-07 : ❌ 0 pomodoros | Busy all day — no study time, but still holding the line mentally.
 2025-11-08 : ☑️ 1 pomodoro | Feynman review — small but meaningful progress, focus regaining shape.
+2025-11-09 : ⛔ 0 pomodoros | A day lost to procrastination — but awareness brings the will to rise again.
+
 
 
 
