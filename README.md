@@ -241,6 +241,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 196 -  0 pomodoros | A day lost to procrastination — but awareness brings the will to rise again.](./day196.md).
 - [Day 197 - 1 pomodoro | Feynman review — rebuilding momentum through steady consistency.](./day197.md).
 - [Day 198 -  1 pomodoro | Feynman review — steady progress through focused repetition.](./day198.md).
+- [Day 199 - 0 pomodoros | Lost the day to procrastination — self-awareness remains the key to recovery.](./day199.md).
 
 
 
@@ -476,6 +477,8 @@ timeline
 2025-11-09 : ⛔ 0 pomodoros | A day lost to procrastination — but awareness brings the will to rise again.
 2025-11-10 : ☑️ 1 pomodoro | Feynman review — rebuilding momentum through steady consistency.
 2025-11-11 : ☑️ 1 pomodoro | Feynman review — steady progress through focused repetition.
+2025-11-12 : ❌ 0 pomodoros | Lost the day to procrastination — self-awareness remains the key to recovery.
+
 
 
 
