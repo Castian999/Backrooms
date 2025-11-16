@@ -243,6 +243,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 198 -  1 pomodoro | Feynman review — steady progress through focused repetition.](./day198.md).
 - [Day 199 - 0 pomodoros | Lost the day to procrastination — self-awareness remains the key to recovery.](./day199.md).
 - [Day 200 -  2 pomodoros | Feynman review + nearly finished correcting Chapter 18 exercises.](./day200.md).
+- [Day 201 - 1 pomodoro | Feynman review — maintained the rhythm.](./day201.md).
+- [Day 202 - 1 pomodoro | Feynman review — consistent and controlled.](./day202.md).
 
 
 
@@ -479,6 +481,9 @@ timeline
 2025-11-11 : ☑️ 1 pomodoro | Feynman review — steady progress through focused repetition.
 2025-11-12 : ❌ 0 pomodoros | Lost the day to procrastination — self-awareness remains the key to recovery.
 2025-11-13 : ✔️ 2 pomodoros | Feynman review + nearly finished correcting Chapter 18 exercises.
+2025-11-14 : ✔️ 1 pomodoro | Feynman review — maintained the rhythm.
+2025-11-15 : ✔️ 1 pomodoro | Feynman review — consistent and controlled.
+
 
 
 
