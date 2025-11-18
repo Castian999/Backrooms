@@ -247,6 +247,8 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 202 - 1 pomodoro | Feynman review — consistent and controlled.](./day202.md).
 - [Day 203 -  0 pomodoros | Personal issues — no study today.](./day203.md).
 - [Day 204 -  1 pomodoro | Feynman review — quiet, steady progress.](./day204.md).
+- [Day 205 - 1 pomodoro | Feynman review — maintaining the rhythm.](./day205.md).
+
 
 
 
@@ -487,6 +489,8 @@ timeline
 2025-11-15 : ✔️ 1 pomodoro | Feynman review — consistent and controlled.
 2025-11-16 : ⛔ 0 pomodoros | Personal issues — no study today.
 2025-11-17 : ☑️ 1 pomodoro | Feynman review — quiet, steady progress.
+2025-11-18 : ☑️ 1 pomodoro | Feynman review — maintaining the rhythm.
+
 
 
 
