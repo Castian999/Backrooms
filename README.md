@@ -253,6 +253,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 208 - 0 pomodoros | A day lost to procrastination — but determination is set: things will change.](./day208.md)
 - [Day 209 -  3 pomodoros | Progress in matrices + corrections in electrochemistry. Hard, but moving forward.](./day209.md).
 - [Day 210 - 1 pomodoro | Finished Electrochemistry Chapter 9 — a small but meaningful step.](./day210.md).
+- [Day 211 - 0 pomodoros | Lost the day to procrastination — but the streak continues tomorrow.](./day211.md).
   
 
 
@@ -501,6 +502,8 @@ timeline
 2025-11-21 : ☐ 0 pomodoros | A day lost to procrastination — but determination is set: things will change.
 2025-11-22 : ☑️ 3 pomodoros | Progress in matrices + corrections in electrochemistry. Hard, but moving forward.
 2025-11-23 : ☑️ 1 pomodoro | Finished Electrochemistry Chapter 9 — a small but meaningful step.
+2025-11-24 : ❌ 0 pomodoros | Lost the day to procrastination — but the streak continues tomorrow.
+
 
 
 
