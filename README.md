@@ -256,6 +256,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 211 - 0 pomodoros | Lost the day to procrastination — but the streak continues tomorrow.](./day211.md).
 - [Day 212 -  1 pomodoro | Completed the theory of Physics Vol. 2, Chapter 5 (Heat Transfer). Momentum returning.](./day212.md).
 - [Day 213 - 0 pomodoros | Day spent restructuring routine — necessary reset for future consistency.](./day213.md).
+- [Day 214 -  0 pomodoros | Lost to procrastination, but determined to break the pattern.](./day214.md).
   
 
 
@@ -507,6 +508,8 @@ timeline
 2025-11-24 : ❌ 0 pomodoros | Lost the day to procrastination — but the streak continues tomorrow.
 2025-11-25 : ☑️ 1 pomodoro | Completed the theory of Physics Vol. 2, Chapter 5 (Heat Transfer). Momentum returning.
 2025-11-26 : ⛔ 0 pomodoros | Day spent restructuring routine — necessary reset for future consistency.
+2025-11-27 : ❌ 0 pomodoros | Lost to procrastination, but determined to break the pattern.
+
 
 
 
