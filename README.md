@@ -257,6 +257,7 @@ Follow the journey live on Twitter: (https://x.com/castian369) 📣
 - [Day 212 -  1 pomodoro | Completed the theory of Physics Vol. 2, Chapter 5 (Heat Transfer). Momentum returning.](./day212.md).
 - [Day 213 - 0 pomodoros | Day spent restructuring routine — necessary reset for future consistency.](./day213.md).
 - [Day 214 -  0 pomodoros | Lost to procrastination, but determined to break the pattern.](./day214.md).
+- [Day 215 - 2 pomodoros | Finished Heat Transfer exercises and began corrections — solid progress.](./day215.md).
   
 
 
@@ -509,6 +510,8 @@ timeline
 2025-11-25 : ☑️ 1 pomodoro | Completed the theory of Physics Vol. 2, Chapter 5 (Heat Transfer). Momentum returning.
 2025-11-26 : ⛔ 0 pomodoros | Day spent restructuring routine — necessary reset for future consistency.
 2025-11-27 : ❌ 0 pomodoros | Lost to procrastination, but determined to break the pattern.
+2025-11-28 : ☑️ 2 pomodoros | Finished Heat Transfer exercises and began corrections — solid progress.
+
 
 
 
